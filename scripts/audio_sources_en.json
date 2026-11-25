@@ -1,0 +1,2002 @@
+{
+  "elephant": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Elephant.",
+    "display_name": "Elephant",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/elephant.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4871ebd56a3aa8152cd136fe6ecd9fb4ef971dfafb92a269006b659e7eb9f17b"
+  },
+  "tiger": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tiger.",
+    "display_name": "Tiger",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tiger.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e76dd05fc152ae516925abdbb7453877fd2008b28927b982f0e0178946e5ebe3"
+  },
+  "deer": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Deer.",
+    "display_name": "Deer",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/deer.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4010f8cecdc7f30bd6775a845e514921ebfc7ad2c0d87a4fbdae5bfc2ebaeac6"
+  },
+  "monkey": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Monkey.",
+    "display_name": "Monkey",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/monkey.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "6d8e8daba905231904238a10818c3ba2b4009c1d4dc0a701a584002ca36afe7a"
+  },
+  "cow": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cow.",
+    "display_name": "Cow",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cow.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "af640e5aa39f8459049f0bd64dc6303c0d38704feb767144ce07a2f97e17cc17"
+  },
+  "goat": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Goat.",
+    "display_name": "Goat",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/goat.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "a1cdc02f8867866696f191bb08416bfb5cb7e3f3e6fb43c58fc1e2998aa23231"
+  },
+  "sheep": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Sheep.",
+    "display_name": "Sheep",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/sheep.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "978116bb8517662e6776c249c71ece85c8ca37b71e423cead2ec8e193511c667"
+  },
+  "buffalo": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Buffalo.",
+    "display_name": "Buffalo",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/buffalo.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d40420cdba5ed64412736d2084dbb672fb78b81caa2306c700d7171a3278366e"
+  },
+  "horse": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Horse.",
+    "display_name": "Horse",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/horse.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e87bb942a2458cf748cb5096c3987e4289acf5349bfc70c58570885e5c4c8f29"
+  },
+  "cat": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cat.",
+    "display_name": "Cat",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cat.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2a0795a80d44baaf4b7c7acc86bf4c978248ecf59baf428483ddcccc696d5233"
+  },
+  "lion": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Lion.",
+    "display_name": "Lion",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/lion.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "7bf425dd0d411deec0a13b8bc26ba98b1c3ecc1f5b16614b73249ea53b0cdf83"
+  },
+  "dog": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Dog.",
+    "display_name": "Dog",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/dog.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "7389499ca05f5dad8f4bb459c95ae19db6caa07b678e8758d246abbb66dd3c56"
+  },
+  "rabbit": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Rabbit.",
+    "display_name": "Rabbit",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/rabbit.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4459718ab82abef783e5d497b31a6b3317c61799716873d6b1bd2c707737baa7"
+  },
+  "squirrel": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Squirrel.",
+    "display_name": "Squirrel",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/squirrel.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "8055c07400b8b46b129b6d033fd3bf74b51a14393f513d06a3a3e88e205be8ad"
+  },
+  "otter": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Otter.",
+    "display_name": "Otter",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/otter.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "b1f56ae05fa0fe3805fc10dd26b01971fdeade87655e944dcd2151df76ffaea2"
+  },
+  "mongoose": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mongoose.",
+    "display_name": "Mongoose",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mongoose.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "5c2410810201c31735c1ee3540a023551eafc61279236d1aa922a1d07e39ac0e"
+  },
+  "jackal": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Jackal.",
+    "display_name": "Jackal",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/jackal.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "f8596a1d19a22934f080b423db3230a9c3f6557145c2a76db4d3ec2deb60d9b7"
+  },
+  "donkey": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Donkey.",
+    "display_name": "Donkey",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/donkey.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "bc3668f07ad3dcbb2d646de829fb836e23ba20f4a14a33554ad535cdf75908b2"
+  },
+  "porcupine": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Porcupine.",
+    "display_name": "Porcupine",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/porcupine.mp3",
+    "duration_seconds": 1.944,
+    "sha256": "5cec90ee171a5316ca6a3cf3cd9570ce1e8a5eabc09fc413ad5e209b14090d71"
+  },
+  "giraffe": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Giraffe.",
+    "display_name": "Giraffe",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/giraffe.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "8df73374ee3509efd3429dbc19f9e2bc7a32013b5a388e66aec2e4a9198c4ee7"
+  },
+  "magpie_robin": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Magpie-robin.",
+    "display_name": "Magpie-robin",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/magpie_robin.mp3",
+    "duration_seconds": 2.112,
+    "sha256": "f10c23164e5aca47e2c584661aaa0e5b89e78b11a1c82cd7ebd54217a4fc4a89"
+  },
+  "parakeet": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Parakeet.",
+    "display_name": "Parakeet",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/parakeet.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e81c224e50770a5a546bf2e23d44400dd3704f78e008420501063c2f2b28f4d4"
+  },
+  "myna": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Myna.",
+    "display_name": "Myna",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/myna.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3bc2e44f7262e6947be500140a4bfb575a8fd31eaf7ef716cc55cb8f593ca74f"
+  },
+  "sparrow": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Sparrow.",
+    "display_name": "Sparrow",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/sparrow.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "fe2691ab9c3ba25a6880a74185259132d67bafaec4f8ba44ef71281700f9d349"
+  },
+  "crow": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Crow.",
+    "display_name": "Crow",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/crow.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "956f0d2faf88330137a594e28bc73ed2a0a8f61cbe0cd1edc40671b12d53a9dc"
+  },
+  "pigeon": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pigeon.",
+    "display_name": "Pigeon",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pigeon.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c9196c348882cc12f4d47a62f244a797bad5d81687701c1b341efa531f36c628"
+  },
+  "kingfisher": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Kingfisher.",
+    "display_name": "Kingfisher",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/kingfisher.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4f6f551e2714e4e4ea886bf61d43bd7420bee969664e387e01b0fd3b4e45b3a3"
+  },
+  "koel": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Koel.",
+    "display_name": "Koel",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/koel.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "8031c01b183e150304b21a2c114efdb660465ea0dc0d5e5f9478183a5a37e06a"
+  },
+  "bulbul": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bulbul.",
+    "display_name": "Bulbul",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bulbul.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c0a193902fbaf79192c2f579684b4fd116221c418610113eec08806be3a00125"
+  },
+  "egret": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Egret.",
+    "display_name": "Egret",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/egret.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "aeb468c889257f3a27cbfbd2e194bcae41d491ecf6487ed8cf8d7d99c402d107"
+  },
+  "duck": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Duck.",
+    "display_name": "Duck",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/duck.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "b5a76971330f19b184bcb7d07612fad155c79a23be380900549639ff9de38b02"
+  },
+  "chicken": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Chicken.",
+    "display_name": "Chicken",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/chicken.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4bcedd454a686270325cfa5271c93c9f47be669f4088ed8b456c9677e0fdee93"
+  },
+  "peacock": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Peacock.",
+    "display_name": "Peacock",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/peacock.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "7f92af3d12e00e9f7b79b4ca3c3b0731c07b67158cb6c9b1e044a96f32c3c764"
+  },
+  "woodpecker": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Woodpecker.",
+    "display_name": "Woodpecker",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/woodpecker.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "5c036791c325eba0368ea793b6d1b58d53e78f4c1e3dd2a83cb393a82b62ccf3"
+  },
+  "owl": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Owl.",
+    "display_name": "Owl",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/owl.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "a727cfe17f93a35c8e3a3d3ef425634c99d9adc81253588c961478a44dced94b"
+  },
+  "kite": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Kite.",
+    "display_name": "Kite",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/kite.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "986bac9f369dd083e70c972bbbd3a880557590a5c65f68002a2be320cb81a5ec"
+  },
+  "dove": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Dove.",
+    "display_name": "Dove",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/dove.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "490c865ecc1d26b479dc009ee9121556285aae070590ff37172007e2b4145203"
+  },
+  "vulture": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Vulture.",
+    "display_name": "Vulture",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/vulture.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "fff58589394704918d22f10497655cc0ad43da944f6f68d6ad48689aa7678083"
+  },
+  "tailorbird": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tailorbird.",
+    "display_name": "Tailorbird",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tailorbird.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "9e6ee0911a0f705eaa5509b59818f48d8ba7ddcc9d7c99632816b8a956e7a008"
+  },
+  "oriole": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Oriole.",
+    "display_name": "Oriole",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/oriole.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c66a6a0575c3e78a40e44b80aca806b73e4493b911cee41bdd8df02ee5ff585a"
+  },
+  "mango": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mango.",
+    "display_name": "Mango",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mango.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "0f4b9e076e2889eed3a2d962e2ba2c26c2dbfac1e21b163e3076e4f3d8856dcf"
+  },
+  "banana": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Banana.",
+    "display_name": "Banana",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/banana.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "08410fffbafa3b1e77062f18f147532048529f1a03da0410a5c36271346bf7dc"
+  },
+  "jackfruit": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Jackfruit.",
+    "display_name": "Jackfruit",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/jackfruit.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "2b387395848cb6268aa935eacd6c0fbfa0557e59a1f6f5fdebb8b7ed12d80fb7"
+  },
+  "lychee": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Lychee.",
+    "display_name": "Lychee",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/lychee.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4a80835c98a680aae06910a8b39889d73ac34521bc570ddf1c363e3bbe1bb138"
+  },
+  "guava": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Guava.",
+    "display_name": "Guava",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/guava.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "9977d7274245d40a70fada599ee85acbc656f933462101819203288986fbf795"
+  },
+  "pineapple": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pineapple.",
+    "display_name": "Pineapple",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pineapple.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "83c704086787fc3cac513b2586474a161a1ec80b0005fffd2c38f9e9a0a82ae2"
+  },
+  "papaya": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Papaya.",
+    "display_name": "Papaya",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/papaya.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "b98cfb14cf4eabf4b825a954985a02afffd6d615ceb1033515da99f9656f1d99"
+  },
+  "watermelon": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Watermelon.",
+    "display_name": "Watermelon",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/watermelon.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "da065cf93661facdcf11cb15a6202a672ccf7baf6a1f15baa464c433c44f5849"
+  },
+  "coconut": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Coconut.",
+    "display_name": "Coconut",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/coconut.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "804cee2b4032774c0d013b8be26b21da12a5e88cc4a07177aa9ca7cf3d8dd819"
+  },
+  "jujube": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Jujube.",
+    "display_name": "Jujube",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/jujube.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "ad08200f38055ef1a7ebc1e1773ba910ac7270bf9124967fe3a7d1c03f728405"
+  },
+  "wood_apple": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bael.",
+    "display_name": "Bael",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/wood_apple.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "b1cb07b4cf1894d75119665cbafa02e1fcfe15013fee0b56e6a11d6e933716ad"
+  },
+  "starfruit": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Star fruit.",
+    "display_name": "Star fruit",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/starfruit.mp3",
+    "duration_seconds": 2.016,
+    "sha256": "4780d09d0334b373d7095e19f178fcdada027cd1b00c766aa2250eab4e94d791"
+  },
+  "apple": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Apple.",
+    "display_name": "Apple",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/apple.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "ffbfe9c3833da57965ecd69344a35fae1087f41ba4d5f7a5b78f6374ba12f461"
+  },
+  "orange": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Orange.",
+    "display_name": "Orange",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/orange.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "9935d38429ece4a335280cc183e2e7a51f011374c3de73c85e2b3f7883d2c42a"
+  },
+  "lemon": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Lemon.",
+    "display_name": "Lemon",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/lemon.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "1c43d32bdc1ee5eb653658fbef07716e0d21788dca8ea05b4d643a28eea2eda5"
+  },
+  "pomegranate": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pomegranate.",
+    "display_name": "Pomegranate",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pomegranate.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "645a7e47b018344fdd827c7de293296d514112137a54a24db30eb2a2c6f5de9b"
+  },
+  "grapes": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Grapes.",
+    "display_name": "Grapes",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/grapes.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2ee23136ba179dae9a3893d1957f692224de6f83f1422fd735bf4f076565ee28"
+  },
+  "tamarind": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tamarind.",
+    "display_name": "Tamarind",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tamarind.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "1f46575b5052264a480beeb0707c73a173245df590f4bdae04a1460a88b38c92"
+  },
+  "custard_apple": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Custard apple.",
+    "display_name": "Custard apple",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/custard_apple.mp3",
+    "duration_seconds": 1.944,
+    "sha256": "5d83ac7e3460f27e8027ee8f440e60dc6c59dcfbce82ada94cd1898e9e81aaa1"
+  },
+  "wax_apple": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Wax apple.",
+    "display_name": "Wax apple",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/wax_apple.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "be031198e8967549e4e2ce7986c58eca4151b07a7421471beeacf0d22bc46f1f"
+  },
+  "eggplant": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Eggplant.",
+    "display_name": "Eggplant",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/eggplant.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "702557802ab58a5710876a45ffcb18d5960fae984821450b0665addceb6a3624"
+  },
+  "potato": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Potato.",
+    "display_name": "Potato",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/potato.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "688c106fbe9984f018edb12330ea13ca0b90e1b1f13abf243d10905cb637b2cc"
+  },
+  "tomato": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tomato.",
+    "display_name": "Tomato",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tomato.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "bdefda14a58f3b4d63759f8bfcc9dafa1e46ebdf9200137e69a0ac7004544e10"
+  },
+  "bottle_gourd": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bottle gourd.",
+    "display_name": "Bottle gourd",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bottle_gourd.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "06b178ba8a5f98d86f043f8339f3e9f9daa25335662d4e751b4cb76f9ec12188"
+  },
+  "bitter_gourd": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bitter gourd.",
+    "display_name": "Bitter gourd",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bitter_gourd.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "a398d13d523ff29cd1c8f4d040ecfb7d9754cd7e19dcaf826bf9e5cd24c7c9a3"
+  },
+  "pumpkin": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pumpkin.",
+    "display_name": "Pumpkin",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pumpkin.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "fc29fda3de9a794e34e39f5dc0c70fe2b7900d481cd329b78578a3b9968976eb"
+  },
+  "okra": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Okra.",
+    "display_name": "Okra",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/okra.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "12ea29a8f177f8e5140532bbbb94fbb82d29cddcae373cbb5616072ddba8820b"
+  },
+  "cauliflower": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cauliflower.",
+    "display_name": "Cauliflower",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cauliflower.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "52657bdeec0c94a532d238d7eb5380b4fc854371a1b1c594a2bb2de3e4638cfb"
+  },
+  "cabbage": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cabbage.",
+    "display_name": "Cabbage",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cabbage.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "03f398009cf85286c70e956b6db9fdffc304279672e235b38be3c0839d9c44ab"
+  },
+  "radish": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Radish.",
+    "display_name": "Radish",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/radish.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d805a9041e7962def0696b752090ad7037f6c5cccfc8a2008df1ba931d3e6508"
+  },
+  "bean": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bean.",
+    "display_name": "Bean",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bean.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "12bd8810dbbbd916fe3f444fb24140c9bc8e8054d8e41c15eb6a8f7a4576bc5f"
+  },
+  "cucumber": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cucumber.",
+    "display_name": "Cucumber",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cucumber.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c35bc16f79b0a4a4b93e11de6267146f306abf3316f2a969e5a9c0f140aa2dd2"
+  },
+  "carrot": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Carrot.",
+    "display_name": "Carrot",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/carrot.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "f433aedb01b0ef0fdd5da781765f32b8ad6099fff6ef866ae083b34de7e40c1a"
+  },
+  "spine_gourd": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Spine gourd.",
+    "display_name": "Spine gourd",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/spine_gourd.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "5e0267dc6c912b32a7df4d281027bc47f1cdbf419ac89f1b79765e173573d2be"
+  },
+  "onion": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Onion.",
+    "display_name": "Onion",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/onion.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4490419c8851ace967b5d8a171faecd64ebcd0f212cf55de1480679a566e6f20"
+  },
+  "garlic": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Garlic.",
+    "display_name": "Garlic",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/garlic.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c9b179b80262a3cee1ed532994a62a3059e457deac305de7aaf3f68f215488c7"
+  },
+  "ginger": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ginger.",
+    "display_name": "Ginger",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ginger.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "25c40e9a75a1d5702878d6792aebcd38a12687a5c7624328a90c3574365e3886"
+  },
+  "chili": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Chili.",
+    "display_name": "Chili",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/chili.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2bebf3cd5a2b5083832c24de40571c1eecd2bc4ab4d419fb2bf579e236568a14"
+  },
+  "ridge_gourd": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ridge gourd.",
+    "display_name": "Ridge gourd",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ridge_gourd.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "f5c4707c43ae176b8d232542900164cd55b684caf2e987a186622d9765dbf8a6"
+  },
+  "pointed_gourd": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pointed gourd.",
+    "display_name": "Pointed gourd",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pointed_gourd.mp3",
+    "duration_seconds": 1.968,
+    "sha256": "d02542bb5ceea460ba581f36188e60438eba32f2ad46439a8c4d787d47e5d7b9"
+  },
+  "wheat": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Wheat.",
+    "display_name": "Wheat",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/wheat.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "31393433aecb1c46c6dc76b6645b7a0879b16feba7e29f18ea9a2707f8f8f9d6"
+  },
+  "paddy": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Paddy.",
+    "display_name": "Paddy",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/paddy.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "49888c80f2530041fbd571f353b058a51155fd281ba06bdd7b37b6139f36df68"
+  },
+  "barley": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Barley.",
+    "display_name": "Barley",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/barley.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "4495e04872614c17dbb7eef8db4c34d7ae78ee712ecff587f0027d4c47ddf0f6"
+  },
+  "maize": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Maize.",
+    "display_name": "Maize",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/maize.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2810e410e2379a737381dbb8053cf2b42ffeab136d90968a2cf5cd5f59516387"
+  },
+  "nigella": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Nigella seeds.",
+    "display_name": "Nigella seeds",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/nigella.mp3",
+    "duration_seconds": 2.256,
+    "sha256": "a96bd79e9e08348acd37e56f3968626dfdc616aecde9ecc9eb894399c811bd9c"
+  },
+  "coriander_seed": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Coriander seeds.",
+    "display_name": "Coriander seeds",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/coriander_seed.mp3",
+    "duration_seconds": 2.352,
+    "sha256": "0b7578bcb722307e9ca54a5faa277141866b2de056249f0ad178a6d3745e92be"
+  },
+  "foxtail_millet": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Foxtail millet.",
+    "display_name": "Foxtail millet",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/foxtail_millet.mp3",
+    "duration_seconds": 2.112,
+    "sha256": "401535580242bbd6175966ad27549b00b4c2a25d5d6e1938185451fa01624044"
+  },
+  "lentil": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Lentil.",
+    "display_name": "Lentil",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/lentil.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "29f353c11df30f421eddeccb3befb24b6f1db9047ab4ca4664a3915e12ad96ed"
+  },
+  "mung_bean": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mung bean.",
+    "display_name": "Mung bean",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mung_bean.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "8937e4f4a04fcacd4bec70cdde50ea2503a1d74a70f7910117ab996991456a99"
+  },
+  "black_gram": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Black gram.",
+    "display_name": "Black gram",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/black_gram.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "9cd799a14a6ad1b9ad979b928bda4e78ec05b88fa39715ca5f0c3df894ab7884"
+  },
+  "chickpea": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Chickpea.",
+    "display_name": "Chickpea",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/chickpea.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "525da3ecde37e0b0d285cfad91d4759f6b1df1b6fc65bcaf1b8234ccb91dc61b"
+  },
+  "pea": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pea.",
+    "display_name": "Pea",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pea.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "ccc18d5bfda6cff44c01be4c36fd92669a540ccefb40be0eae0ed6874c4b6f09"
+  },
+  "grass_pea": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Grass pea.",
+    "display_name": "Grass pea",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/grass_pea.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d06a0566b20f8f1cce5494c6864c5b5c2ed7b79fb55bb8ffad5452cdbacae904"
+  },
+  "pigeon_pea": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pigeon pea.",
+    "display_name": "Pigeon pea",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pigeon_pea.mp3",
+    "duration_seconds": 1.92,
+    "sha256": "30992fb3578e7f7a1c8db79e95fef8f868addf11474d3778c2b4653df7d0292b"
+  },
+  "mustard_seed": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mustard.",
+    "display_name": "Mustard",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mustard_seed.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "691262bf1bfca883fff286242a0248ce39942ddca4107f4fddf480746fda7dcc"
+  },
+  "sesame_seed": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Sesame.",
+    "display_name": "Sesame",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/sesame_seed.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "589c2008746fdaf0cf0ac92e03a82021bb3405d50fc8aab0c3e6760211a590d5"
+  },
+  "soybean": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Soybean.",
+    "display_name": "Soybean",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/soybean.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "659bd009448fd0eae10de5f3c53755fab4e99e2d9720a82c6bc8d6e1adc0ac78"
+  },
+  "peanut": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Peanut.",
+    "display_name": "Peanut",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/peanut.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "fe3d6c7448c5f188ce3d749b92a9b8ca00d0ea841412d78aaaca3bc13b3e4482"
+  },
+  "flaxseed": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Flaxseed.",
+    "display_name": "Flaxseed",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/flaxseed.mp3",
+    "duration_seconds": 1.92,
+    "sha256": "8044dff67b07e11d65aa8f9f193d7012dd16862f2027fbfeb3b6a026a45c58d1"
+  },
+  "sunflower_seed": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Sunflower seed.",
+    "display_name": "Sunflower seed",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/sunflower_seed.mp3",
+    "duration_seconds": 2.232,
+    "sha256": "cb62cd97251a90923a63657231eeec6e1c92c20e5fb18fdfaf7ffbe1ff03a743"
+  },
+  "water_lily": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Water lily.",
+    "display_name": "Water lily",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/water_lily.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "cd6b5938b6ef490466ba1653b24c16fc79289f91510520befe164c1e22f03a6c"
+  },
+  "lotus": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Lotus.",
+    "display_name": "Lotus",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/lotus.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "ba62399acedc8441a7616393573c41f2c668c7b9bb593cf3eaf4929f688d7d26"
+  },
+  "rose": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Rose.",
+    "display_name": "Rose",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/rose.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d461f0bea47d225713d0135c8ea80f38bcd3338ca21b4a5f6f4143585e060b07"
+  },
+  "hibiscus": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Hibiscus.",
+    "display_name": "Hibiscus",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/hibiscus.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "e96941845102b418bb0c000823e450e214fa64407f9dc31f1d167232d0778101"
+  },
+  "marigold": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Marigold.",
+    "display_name": "Marigold",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/marigold.mp3",
+    "duration_seconds": 1.944,
+    "sha256": "0bc1cbd234a427ca2cefc95e033e3e18db24b50bb0c9d140c06dab5de97afcf1"
+  },
+  "jasmine": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Jasmine.",
+    "display_name": "Jasmine",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/jasmine.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c7e1f87764af0c9e02c82980b7c2ba99d9c8558e842bd3585c436490e1db213e"
+  },
+  "sunflower": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Sunflower.",
+    "display_name": "Sunflower",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/sunflower.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "fec11bf0d49d98bcf6bf37551e6f2f02f337bab85dd8385f21e69e8f322e9b3a"
+  },
+  "tuberose": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tuberose.",
+    "display_name": "Tuberose",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tuberose.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "0e9a54315dd6e9e58056fb23d5e490d2d638ecc90eb37bfd8253886b026c980c"
+  },
+  "ixora": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ixora.",
+    "display_name": "Ixora",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ixora.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "5e2918db65b2646c26599956454407c04c6ba2c4690734cf1122111d24e3adc9"
+  },
+  "periwinkle": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Periwinkle.",
+    "display_name": "Periwinkle",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/periwinkle.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "770cbe2e10a943be47faa5c810e754cff2f343d4f49b8efac6e2a1c62b8c68b3"
+  },
+  "hasnahena": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Night jessamine.",
+    "display_name": "Night jessamine",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/hasnahena.mp3",
+    "duration_seconds": 2.016,
+    "sha256": "e21a17b1d32444d9aa0c5df97854bbed44c2dbf0f722680066a17ef40cc6ea0d"
+  },
+  "tulip": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tulip.",
+    "display_name": "Tulip",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tulip.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "0b847c29d57336bd0d7584f53515eace5f4eacaa2f3aea38fbd91ff23d13fe2e"
+  },
+  "bougainvillea": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bougainvillea.",
+    "display_name": "Bougainvillea",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bougainvillea.mp3",
+    "duration_seconds": 1.992,
+    "sha256": "c8a4e3a2561f312de787e568015d877ad5a5e733556231015a4640acf2c55740"
+  },
+  "dahlia": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Dahlia.",
+    "display_name": "Dahlia",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/dahlia.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3bbd4e25191cf294f7d30cc72b08f431d976edbdd6eadcbf7e051c916be3fb78"
+  },
+  "chrysanthemum": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Chrysanthemum.",
+    "display_name": "Chrysanthemum",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/chrysanthemum.mp3",
+    "duration_seconds": 1.992,
+    "sha256": "0d947343d098309ac7e34ed1e040182bc12074da9fc8d960df611ee1caf55327"
+  },
+  "zinnia": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Zinnia.",
+    "display_name": "Zinnia",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/zinnia.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d5e5e246b385a6aa275840e3bb5e60de3123ffed559ed43f0ad2905473901b1b"
+  },
+  "cosmos": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cosmos.",
+    "display_name": "Cosmos",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cosmos.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "6140db3685982a2e89864ed7bd1494b36a4bd37bbfab40d5eeefc8c12d6c2303"
+  },
+  "frangipani": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Frangipani.",
+    "display_name": "Frangipani",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/frangipani.mp3",
+    "duration_seconds": 2.04,
+    "sha256": "37948c9e0c892af2891377185e3ba47e88628a1dbd1f581c00e6531ddf7f701e"
+  },
+  "butterfly_pea": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Butterfly pea.",
+    "display_name": "Butterfly pea",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/butterfly_pea.mp3",
+    "duration_seconds": 2.136,
+    "sha256": "a5eefc77e4397b79ecc2453aac4be6fe88c595092161a1c8dc3b70df69d227b0"
+  },
+  "kadam": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Kadam.",
+    "display_name": "Kadam",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/kadam.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d0ef0120dd825f8d09703191c0a0027130864669442c33ec83d538406222e7eb"
+  },
+  "hilsa": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Hilsa.",
+    "display_name": "Hilsa",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/hilsa.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "992b32c565b2fc9b66fccc7c50568edab6702bae6030c7c37907ca4ba0339547"
+  },
+  "rohu": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Rohu.",
+    "display_name": "Rohu",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/rohu.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "6baeb9c9e6dc206ce889cd793938ae90f66fff0aa4100d192d59fb2d42027c08"
+  },
+  "catla": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Catla.",
+    "display_name": "Catla",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/catla.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "339b76bd76f1382b406f0e52574d99b196aa822b34cba54b8e97129862f9942a"
+  },
+  "mrigal": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mrigal.",
+    "display_name": "Mrigal",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mrigal.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e321d6908ffe77e07262923507eaf6c700984188503e53f7a78e644775d6bf64"
+  },
+  "climbing_perch": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Climbing perch.",
+    "display_name": "Climbing perch",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/climbing_perch.mp3",
+    "duration_seconds": 2.088,
+    "sha256": "d476dd04f9ccad46c183faa4ebd85a08ba2dcfbcb1b10d18fd2b738da9b5088c"
+  },
+  "walking_catfish": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Walking catfish.",
+    "display_name": "Walking catfish",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/walking_catfish.mp3",
+    "duration_seconds": 2.352,
+    "sha256": "54312f2310454811eade84789c65b4b5a2eb61a79270c8ede40b7c75c303abff"
+  },
+  "stinging_catfish": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Stinging catfish.",
+    "display_name": "Stinging catfish",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/stinging_catfish.mp3",
+    "duration_seconds": 2.328,
+    "sha256": "48e4ac974ac726e439d43f6bb83eed99f062dece59219163a411117476b7ec06"
+  },
+  "shrimp": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Shrimp.",
+    "display_name": "Shrimp",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/shrimp.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "62cc87c3f385674b301bea12105e16946021649be5b8b42c00972d54cc4df4a0"
+  },
+  "snakehead": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Striped snakehead.",
+    "display_name": "Striped snakehead",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/snakehead.mp3",
+    "duration_seconds": 2.328,
+    "sha256": "86e03e71d5e1a744831d21425ef689e5dac376fd62ea591bdb121879a9579195"
+  },
+  "pabda": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pabda.",
+    "display_name": "Pabda",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pabda.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "5d545e80834504324501e4fb9329f671bad0981792d73aae8248bae4bd07cc58"
+  },
+  "punti": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Punti.",
+    "display_name": "Punti",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/punti.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "352aa6e90da34fee101ca4e0566b3ad93983dbc43541738c8694f7147293108e"
+  },
+  "mola": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mola.",
+    "display_name": "Mola",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mola.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d2f05e933c1839fa5af8378d852809ad2a5cf1cd69f509b067a77b19d971c6ec"
+  },
+  "tilapia": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tilapia.",
+    "display_name": "Tilapia",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tilapia.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "0ab8e33bf4f90bca41404af7ba1ff0284723dc008570aee20bffcc345b44564b"
+  },
+  "pangasius": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pangas.",
+    "display_name": "Pangas",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pangasius.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "82b5119ed3233f498ee9fb842b3a15c4e011123114aa82a7d854d813ef0a799e"
+  },
+  "silver_carp": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Silver carp.",
+    "display_name": "Silver carp",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/silver_carp.mp3",
+    "duration_seconds": 1.992,
+    "sha256": "dcf003c0f24146a05ed72dd7ed83fb521d6d3861553dc9ac21fbcc560f1cd488"
+  },
+  "grass_carp": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Grass carp.",
+    "display_name": "Grass carp",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/grass_carp.mp3",
+    "duration_seconds": 1.92,
+    "sha256": "57ea4f83af0d011b9fe83a7e1a34cf267fc73e7dafe43883f5a1edbcc03e7b9b"
+  },
+  "chital": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Chital.",
+    "display_name": "Chital",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/chital.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d9ca7dd796e2f3775a03a89ea25fdb69a1d811fc02b717c60612610832e7a93f"
+  },
+  "common_carp": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Carp.",
+    "display_name": "Carp",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/common_carp.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "a2917844316d6d6afa683bc5e0ba1433c66734c70e2c428fd417f5879d24f306"
+  },
+  "boal": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Boal.",
+    "display_name": "Boal",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/boal.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "19d1d8f3b99b55d095d88e51ce23c50309421d6d77b585d44b343aeaebaed11c"
+  },
+  "ant": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ant.",
+    "display_name": "Ant",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ant.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2cf422b1a0949b21f2cdd7320a54032356d63ce406fc1e139977e714f9ebaec9"
+  },
+  "pomfret": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pomfret.",
+    "display_name": "Pomfret",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/pomfret.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "7eed1fcca86e77cea54c1f0254eeab4135c23cd067e80600b06ed1f026996536"
+  },
+  "butterfly": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Butterfly.",
+    "display_name": "Butterfly",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/butterfly.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2e572ca241cb351b3bd7ae0ff5ca9fac54541c538f54be130900b78a3aac3d7c"
+  },
+  "honeybee": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bee.",
+    "display_name": "Bee",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/honeybee.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3fc1a540c22961ee9c334e4c5bc7702c3a42a3233c0bcae6191ea23d0c20734a"
+  },
+  "mosquito": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Mosquito.",
+    "display_name": "Mosquito",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/mosquito.mp3",
+    "duration_seconds": 1.92,
+    "sha256": "a07693668f06321637bdbb19ee7ce68825536761ba8c42701d73e8a11bd9ba97"
+  },
+  "fly": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Fly.",
+    "display_name": "Fly",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/fly.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2dd14c6c40e1578cada2b3aa0b3c78a1b4f847a4eaa74273557eca1544ce3635"
+  },
+  "dragonfly": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Dragonfly.",
+    "display_name": "Dragonfly",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/dragonfly.mp3",
+    "duration_seconds": 1.992,
+    "sha256": "07bfc0e1e9ecc4da76a8812a48430eca4d34a37e01de17b82577b06dc6825567"
+  },
+  "cockroach": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cockroach.",
+    "display_name": "Cockroach",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cockroach.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3bf3951505488675f49e1ee2624dfd8a957a679990f3c3d80940d0f9a4def966"
+  },
+  "grasshopper": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Grasshopper.",
+    "display_name": "Grasshopper",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/grasshopper.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "20d06c457fd6edd917dd26f35d6eea65f2b1d693c50a3fd383c0ab48b3afcce4"
+  },
+  "cricket": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cricket.",
+    "display_name": "Cricket",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/cricket.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "044dda73f685b267a2995443178be838f5d7534808f7cbd776070ae870634d67"
+  },
+  "beetle": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Beetle.",
+    "display_name": "Beetle",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/beetle.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e38fc4571f8d52301db930b7db240495388e95b84aa530dd6f8dbbba0ba23f8b"
+  },
+  "firefly": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Firefly.",
+    "display_name": "Firefly",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/firefly.mp3",
+    "duration_seconds": 1.968,
+    "sha256": "6d6603b97375784e11e1b5673b34a60f16d6c435604fd175f97100a5b85a59bb"
+  },
+  "ladybird": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ladybird.",
+    "display_name": "Ladybird",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ladybird.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "28f5ac328dc33a8e5b107ee2f3b67c3d6c14c4839a6df3f9e1b0cd28e34111d8"
+  },
+  "moth": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Moth.",
+    "display_name": "Moth",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/moth.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "1bcccbf4b85c4a0d0ace365a230aed5089f348210456ec6b51dcef1965aca421"
+  },
+  "caterpillar": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Caterpillar.",
+    "display_name": "Caterpillar",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/caterpillar.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "92cc34f2bb90fd4a0c50bb653633e6f377d552f3429dc8ed80446b9d56abf0c9"
+  },
+  "termite": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Termite.",
+    "display_name": "Termite",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/termite.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "51aefb6f066e76d276bb4a6942f89440dce582ad3f5125e4dca9e3987b9fda7a"
+  },
+  "louse": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Louse.",
+    "display_name": "Louse",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/louse.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "a27be6ccd8ca82ff28e3865ce10d39c95e0bfe7c6e26a59b8ad097e532e0bf6c"
+  },
+  "bedbug": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bedbug.",
+    "display_name": "Bedbug",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bedbug.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "386080370ad4b93739d8c8cf4b228d42ac053f0025f1e70a8e1f8ac910695a0c"
+  },
+  "rice_bug": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Rice bug.",
+    "display_name": "Rice bug",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/rice_bug.mp3",
+    "duration_seconds": 1.944,
+    "sha256": "14df768af1de291cd78700d987ea482e8a692c55be6a3df879c25cffdfefedc3"
+  },
+  "hornet": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Hornet.",
+    "display_name": "Hornet",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/hornet.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c5fe1a0b392fb2bf2dba1109d91c1bae92340cbac2eb050a34b47e3c8aefe5db"
+  },
+  "silkworm": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Silkworm.",
+    "display_name": "Silkworm",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/silkworm.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "4eea985dfc22175890032cc7c84cd4bbabeedc5898872a6565055d996f117c6e"
+  },
+  "car": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Car.",
+    "display_name": "Car",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/car.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "97ab0defeadc14f541728b93630e5c6cac9f5d68a6e522b642932449087a88ab"
+  },
+  "truck": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Truck.",
+    "display_name": "Truck",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/truck.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "82379e0a6964bea88040550c178852d88bb3d76648b16e91e5a66e025c947052"
+  },
+  "bus": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bus.",
+    "display_name": "Bus",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bus.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "72755d880893fde3821baf53cbc8707122cc5258b908e0058f98af90cbbecaff"
+  },
+  "train": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Train.",
+    "display_name": "Train",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/train.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3f136657088417cd900a1b6bc15da683ce2b33e133b641ff40706a4f0dc4e23c"
+  },
+  "bicycle": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bicycle.",
+    "display_name": "Bicycle",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bicycle.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "2c6946958c654fe0cf1f2fed985dd1954b64bdfc36ad81e24d4d0f07a02df498"
+  },
+  "motorcycle": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Motorcycle.",
+    "display_name": "Motorcycle",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/motorcycle.mp3",
+    "duration_seconds": 1.968,
+    "sha256": "89cf42e759dc4c4aad53d8412ba35b90de5604957eac55dc361ae89905aabb39"
+  },
+  "rickshaw": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Rickshaw.",
+    "display_name": "Rickshaw",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/rickshaw.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "fe6d346b6d8b07d49a13072e9c2c5951f70e722b06b6e9e960afe5f38b612187"
+  },
+  "auto_rickshaw": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Auto rickshaw.",
+    "display_name": "Auto rickshaw",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/auto_rickshaw.mp3",
+    "duration_seconds": 2.136,
+    "sha256": "67c9fe45f95d42b860777c2380b5bcefdb6126a18b8ebe6b2315a7d779ee1f6d"
+  },
+  "van": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Van.",
+    "display_name": "Van",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/van.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d7fdee33f3d36adfd6e5b01de71ff272fdb64834354a86858c7f9bb836521473"
+  },
+  "ambulance": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ambulance.",
+    "display_name": "Ambulance",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ambulance.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "0c9037eaa40cb7f6b04b04f121cf3e5a39a706cef1b2d9f07b3b8b9f1eb0ba4b"
+  },
+  "fire_engine": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Fire engine.",
+    "display_name": "Fire engine",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/fire_engine.mp3",
+    "duration_seconds": 2.064,
+    "sha256": "5011b7e130aef57e4c748c7500dfbc3e3b14a2e8da2946c17426c7853557ef88"
+  },
+  "police_car": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Police car.",
+    "display_name": "Police car",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/police_car.mp3",
+    "duration_seconds": 1.92,
+    "sha256": "945728c09ac6d0e2ebf14e39021ee7b835668e9c29b9f88a037e6388a61fef32"
+  },
+  "tractor": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Tractor.",
+    "display_name": "Tractor",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/tractor.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e0de6f8a8af90d505f13b0649cc9cf7f4105bfecc7bf622b2f1ee06f36ae6834"
+  },
+  "bulldozer": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Bulldozer.",
+    "display_name": "Bulldozer",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/bulldozer.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "c1db9abd73f79c62a4b1f9a587453a32695e4833bb4233b63d758465d0fafb27"
+  },
+  "boat": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Boat.",
+    "display_name": "Boat",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/boat.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "bd0d89adbad8c354a61e9ae05c6dd8b44cfeb9889f9e53a6edc4fd75e3c6faef"
+  },
+  "ship": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ship.",
+    "display_name": "Ship",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ship.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "b52eaf7107cb3852b93b2f159d2ff202824f041447989190a86feefc4522e79c"
+  },
+  "launch": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Launch.",
+    "display_name": "Launch",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/launch.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "8a722ca24e70c7376235f7ea557ece9ee63df25c290286ca95d3146a0e3add00"
+  },
+  "ferry": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Ferry.",
+    "display_name": "Ferry",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/ferry.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "317d9a8040e92060023d0f270552cce16056cea4c2fa366a49df4e9bb475e523"
+  },
+  "airplane": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Airplane.",
+    "display_name": "Airplane",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/airplane.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "5f89d9e19b36e0a34d93131dd2b88c862318763def9e6345dd1fbc4227788e4c"
+  },
+  "helicopter": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Helicopter.",
+    "display_name": "Helicopter",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/helicopter.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "6321e184543c6a1fbc446ca24e6dcd922eb8ee7ea325fc28a7216deab65ab115"
+  },
+  "color_red": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Red.",
+    "display_name": "Red",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_red.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3d05ae048b76c815b294b850f7622b001a2453a4acdda2d0f7aa278a83dc3c3c"
+  },
+  "color_yellow": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Yellow.",
+    "display_name": "Yellow",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_yellow.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "00e148e5999574664edc07cc01f3cca6e9ce946a6980952fd8a7ce8fed8be37a"
+  },
+  "color_blue": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Blue.",
+    "display_name": "Blue",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_blue.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "78e6b451f502b5f557670fcff89f09a805b566281c47aa48b05923748f5fcb30"
+  },
+  "color_orange": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Orange.",
+    "display_name": "Orange",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_orange.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "ef880e9c66a2dd7a6b52188ddcd02209ad1db0facd08c78e9114197bac9a8009"
+  },
+  "color_green": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Green.",
+    "display_name": "Green",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_green.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "d4fce08a5d554e5c32831c2a3c9f6530c7f11c2a3d489fed7ca9ef91dd771b5e"
+  },
+  "color_purple": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Purple.",
+    "display_name": "Purple",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_purple.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "5627b7fa1a29df940fdaf81f9dfd46cc2acb9bf27b38cf41cc5767278ea0be3e"
+  },
+  "color_white": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "White.",
+    "display_name": "White",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_white.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "21cc1af194ee339afade0a121306c30379a25321e9d050ad1cb87a5c5e2cbe30"
+  },
+  "color_pink": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Pink.",
+    "display_name": "Pink",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_pink.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "e4ce488ee80272dde9200d21a3a5a2eefedc1fb36782dc435819962ab2e5a490"
+  },
+  "color_black": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Black.",
+    "display_name": "Black",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_black.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "21d421ed4b09406e5de035830706f2389dd02341ec0a76f4f18c24d44049f36f"
+  },
+  "color_brown": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Brown.",
+    "display_name": "Brown",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_brown.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "617d991c668d8b7a28ae3b7dacfe039ef31b4890d7db21be6fcb39f6bcef5725"
+  },
+  "color_gray": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Gray.",
+    "display_name": "Gray",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_gray.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "59224d606ceee33c48a76cd2b04658db0f4a1a9ede6ca55938c0305d6fa3a321"
+  },
+  "color_sky_blue": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Sky blue.",
+    "display_name": "Sky blue",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_sky_blue.mp3",
+    "duration_seconds": 2.064,
+    "sha256": "3e755131c2e03824a5b21e771030e7bf1ec854aad466e08bf518abd0ca4f7aa2"
+  },
+  "color_navy_blue": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Navy blue.",
+    "display_name": "Navy blue",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_navy_blue.mp3",
+    "duration_seconds": 2.016,
+    "sha256": "8c5930b85c44d75df2d4c7b8225cf9bc698be7896d26f1b5debedcdc41d647b7"
+  },
+  "color_dark_green": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Dark green.",
+    "display_name": "Dark green",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_dark_green.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "4a0e2810439d6191bc147499d39038ef1f40c678a5e3e12e3af478a5e55af3e6"
+  },
+  "color_light_green": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Light green.",
+    "display_name": "Light green",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_light_green.mp3",
+    "duration_seconds": 1.896,
+    "sha256": "2b2e08d690b7b8b49149ff5f86b55ad9eb098135f6d1ee1efe5ac89761935e29"
+  },
+  "color_maroon": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Maroon.",
+    "display_name": "Maroon",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_maroon.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "3dac424e5c3c657ea00365e6e08886f4c66457a502e0f888710b33264e54511c"
+  },
+  "color_gold": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Gold.",
+    "display_name": "Gold",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_gold.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "602f5e2615cd08b28899fb25b418905320e3ce89f257559c9bbb2b5dea5d8d50"
+  },
+  "color_turquoise": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Turquoise.",
+    "display_name": "Turquoise",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_turquoise.mp3",
+    "duration_seconds": 1.92,
+    "sha256": "de487f4afaf3dc5ccccc1f4703776ec59169cfb3acc39f41fbb5be44d59da92a"
+  },
+  "color_silver": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Silver.",
+    "display_name": "Silver",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_silver.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "a9548c05da379b13aad54cb571728ecd8c08718458a61e1aa7460c93673d6b45"
+  },
+  "color_cream": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-5%",
+    "text": "Cream.",
+    "display_name": "Cream",
+    "provider": "Microsoft Edge online speech via edge-tts",
+    "file": "audio/en/color_cream.mp3",
+    "duration_seconds": 1.872,
+    "sha256": "699752b6267c19df48a0f6c4f5efef0806f7a4473b491f1ed724aead6f5fe243"
+  }
+}

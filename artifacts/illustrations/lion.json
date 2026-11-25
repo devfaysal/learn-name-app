@@ -1,0 +1,8 @@
+{
+  "id": "lion",
+  "prompt": "Use case: precise-object-edit. Edit this lion illustration for a mobile picture dictionary. Put the lion's HEAD AND MANE ON THE LEFT side of the square, body extending to the right, tail at the right. Full body standing naturally on all four paws, facing left in three-quarter view, eyes slightly toward viewer. Keep the upper-right 30% by 30% of the canvas empty ivory for a favorite button. Make the lion substantially MORE PHOTOREALISTIC: authentic adult male lion anatomy, natural muted tawny short coat instead of saturated orange, irregular real brown mane with individual hairs and subtle dark roots, realistic eyes without stylization, detailed natural muzzle, whiskers, textured nose, believable muscular shoulders and paws. Calm closed mouth. Premium natural-history realism, soft natural daylight and accurate shadows, no cartoon or overly groomed fantasy mane. Preserve the square format, clean warm ivory backdrop and faint floor shadow, complete animal with all four paws and full tail, comfortable margins with no cropped parts. No text, labels, props, scenery or watermark.",
+  "tool": "built-in image_gen",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-4bec2a00-16d1-44eb-b0e4-bcda01928e1d.png",
+  "project_path": "artifacts/illustrations/lion.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-3ad7e80b-f8c9-4da0-8f47-a3436a8fec76.png"
+}

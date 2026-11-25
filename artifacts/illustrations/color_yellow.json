@@ -1,0 +1,12 @@
+{
+  "id": "color_yellow",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "হলুদ",
+  "en": "Yellow",
+  "color": "#FFE100",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

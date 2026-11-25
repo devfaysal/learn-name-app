@@ -1,0 +1,21 @@
+{
+  "id": "color_silver",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "রুপালি",
+  "en": "Silver",
+  "color": "#BCC3CB",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "metallic",
+  "gradient_stops": [
+    "#64707D",
+    "#A6AFBA",
+    "#D7DDE3",
+    "#FFFFFF",
+    "#8B97A4",
+    "#D1D8DF",
+    "#788592"
+  ]
+}

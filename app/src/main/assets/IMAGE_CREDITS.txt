@@ -1,0 +1,6 @@
+Boal image: AI redrawing based on Wallago attu 1.jpg by Reezwan.
+Source: https://commons.wikimedia.org/wiki/File:Wallago_attu_1.jpg
+Original and adapted Boal image: CC BY-SA 3.0
+License: https://creativecommons.org/licenses/by-sa/3.0/
+Changes: AI redrawing with new detail, lighting and ivory background; resized to WebP.
+Other illustrations were independently generated with the built-in image_gen tool.

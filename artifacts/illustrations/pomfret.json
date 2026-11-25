@@ -1,0 +1,11 @@
+{
+  "id": "pomfret",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square realistic fish portrait for a children's Bengali-English picture dictionary. Subject: one authentic marine rupchanda pomfret (Pampus chinensis), complete left-facing side profile. Characteristic very deep broad flattened almost round oval silvery body, small blunt rounded head merging into body, small natural eye and tiny mouth, short narrow tail base and clearly forked tail. Silvery white sides with soft gray-brown shading over the back and fine tiny natural pigment speckles, subtle realistic metallic fish skin sheen. Tall soft dorsal fin and matching anal fin taper backward along upper and lower rear body, not long sickle-like streamers; translucent grayish fin rays and darker fin edges. One visible narrow pectoral fin behind head; no pelvic fins, no barbels. Natural proportions, fine skin detail and credible anatomy. This is the familiar silver marine pomfret, NOT a red-bellied pacu, tilapia, catfish or tropical angelfish. Plain warm ivory seamless background, soft diffuse daylight and subtle shadow below. Whole fish centered, entire tail and all fins visible, 10 percent clear margins, large and recognizable at mobile thumbnail size. No water scenery, aquarium, hooks, hands, blood, plates, extra fish, text, labels, border, watermark, cartoon styling or plastic appearance.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-1ae2035a-8219-45cf-a6d4-3b8f25356ba0.png",
+  "project_path": "artifacts/illustrations/pomfret.png",
+  "identification_references": [
+    "https://www.fao.org/4/ae486e/ae486e00.pdf",
+    "https://www.fao.org/4/e9163e/E9163e4i.pdf"
+  ]
+}

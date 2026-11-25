@@ -1,0 +1,12 @@
+{
+  "id": "color_sky_blue",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "আকাশি",
+  "en": "Sky blue",
+  "color": "#79CFFF",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

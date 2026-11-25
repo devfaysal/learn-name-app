@@ -1,0 +1,12 @@
+{
+  "id": "color_navy_blue",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "গাঢ় নীল",
+  "en": "Navy blue",
+  "color": "#162C65",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

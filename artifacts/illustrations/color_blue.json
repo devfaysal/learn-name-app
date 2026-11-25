@@ -1,0 +1,12 @@
+{
+  "id": "color_blue",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "নীল",
+  "en": "Blue",
+  "color": "#2355E8",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

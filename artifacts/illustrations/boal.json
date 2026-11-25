@@ -1,0 +1,18 @@
+{
+  "id": "boal",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create a NEW high-resolution square natural-history fish portrait for a children's Bengali-English picture dictionary. The supplied low-resolution photo is an ANATOMICAL REFERENCE for the Bangladeshi boal fish Wallago attu. Carefully match the actual fish's distinctive silhouette and proportions in that reference: a very elongated laterally flattened tapering body, small narrow wedge-shaped pointed head with a steep oblique upturned large mouth, tiny eye, exceptionally long thin dark maxillary whiskers, pale silvery-pink scaleless flanks and belly, subdued gray back, very small narrow dorsal fin just behind the head, an extremely long low pinkish-gray anal fin running from behind the belly almost to the tail. Body nearly straight along upper back and increasingly thin toward the tail, NOT a fat cylindrical generic catfish. The reference tail is small dark and partially folded; render a natural small dark caudal fin rather than a huge upright decorative fork. Preserve two pairs of barbels with long upper pair and shorter lower pair, no extra whiskers. Make the fish lifelike with smooth subtle moist skin texture, no scales and no plastic shine. New clean photographic rendering, slightly elevated left-facing lateral view, soft natural diffuse light. Full fish, every whisker and complete tail comfortably inside the square with clear side margins; centered horizontally on warm ivory seamless background with a faint soft shadow. No text, labels, watermark, borders, hooks, blood, injuries, hands, plates, aquarium or scenery. Reference is for species anatomy, not a pixel copy or upscaling of the photograph.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-c82fc218-55a4-41ee-a3a3-d85f9dee7eba.png",
+  "project_path": "artifacts/illustrations/boal.png",
+  "reference_path": "artifacts/references/boal-reference.jpg",
+  "reference": {
+    "title": "Wallago attu 1.jpg",
+    "author": "Reezwan",
+    "url": "https://commons.wikimedia.org/wiki/File:Wallago_attu_1.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "use": "Anatomical reference for an AI redrawing; background, lighting and rendering changed."
+  },
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+}

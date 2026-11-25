@@ -1,0 +1,12 @@
+{
+  "id": "color_turquoise",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "ফিরোজা",
+  "en": "Turquoise",
+  "color": "#28C6C0",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

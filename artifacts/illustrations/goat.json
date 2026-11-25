@@ -1,0 +1,8 @@
+{
+  "id": "goat",
+  "prompt": "Use case: precise-object-edit. Improve this black goat image for a mobile animal picture dictionary. Move the entire HEAD, BOTH HORNS and BOTH EARS to the LEFT HALF of the square; body extends right. Turn the face directly toward viewer enough for BOTH EYES to be clearly visible, anatomically natural. Make its face genuinely lifelike: correct Black Bengal goat elongated muzzle, natural smaller amber eyes with horizontal pupils and realistic eyelids, textured nose, fine short hair and subtle whiskers, natural calm closed mouth, no human smile or toy-like cute expression. Preserve black short fur, small backward-curving horns, natural ears, slender legs, four complete cloven hooves and short tail. Full-body natural standing pose. Keep the entire upper-right 32 percent by 32 percent of the square EMPTY ivory for a favorite button; no head, horns, ears or raised tail in this region. Realistic animal photography quality with detailed black fur visible through soft daylight and gentle fill, no crushed dark facial shadows or glossy plastic fur. Preserve clean warm ivory backdrop (#fffaf0), subtle floor shadow and complete uncropped animal with comfortable margins. No scenery, props, accessories, text, watermark or border.",
+  "tool": "built-in image_gen",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-37c354bf-fc02-40d5-aa06-2837feb79fdb.png",
+  "project_path": "artifacts/illustrations/goat.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-52af9bd9-7985-4730-8546-971172e5da64.png"
+}

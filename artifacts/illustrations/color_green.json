@@ -1,0 +1,12 @@
+{
+  "id": "color_green",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "সবুজ",
+  "en": "Green",
+  "color": "#28A745",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

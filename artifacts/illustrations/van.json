@@ -1,0 +1,7 @@
+{
+  "id": "van",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create one square lifelike photographic illustration for a children's Bengali-English picture dictionary. A traditional Bangladeshi foot-pedaled van (van rickshaw): a human-powered cargo tricycle with a bicycle front section, ONE front spoked wheel, curved handlebars, a black bicycle saddle, clearly visible pedal crank and chain, and a broad low rectangular flat wooden plank cargo platform behind the saddle supported by TWO rear spoked wheels on a rear axle. Exactly three wheels total. Empty flatbed without canopy, cabin, passenger bench, tall sides, engine or battery. Sturdy green-painted steel frame, natural worn brown wooden deck, realistic black rubber tires and silver spokes. Three-quarter front-left view showing the pedal mechanism, full cargo platform and both rear wheel positions. Plain warm ivory seamless background, softly diffused daylight, subtle contact shadows, accurate mechanical construction and natural material textures. Entire vehicle fully visible with clear margins on all sides, crisp recognizable silhouette at thumbnail size. No people, scenery, text, logos, watermark or border. Realistic full-size vehicle, not a toy or cartoon.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-aed1df86-0e40-4f60-b60d-25f94d9c4c7e.png",
+  "project_path": "artifacts/illustrations/van.png"
+}

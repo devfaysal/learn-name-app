@@ -1,0 +1,12 @@
+{
+  "id": "color_brown",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "বাদামি",
+  "en": "Brown",
+  "color": "#88532F",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

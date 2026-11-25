@@ -1,0 +1,8 @@
+{
+  "id": "kadam",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square realistic flower portrait for a children's Bengali-English picture dictionary. Subject: authentic Bangladeshi kadam flower (Neolamarckia cadamba), one prominent round golden yellow-orange spherical flower head composed of hundreds of tiny closely packed tubular flowers with delicate slender cream-white protruding styles, producing its recognizable soft pincushion appearance. Natural fine botanical texture, not a marigold, dahlia, dandelion seed ball, artificial pompom or spiky fruit. Flower attached naturally to a short slender green stalk and small twig with two broad oval fresh green leaves with clear veins and smooth edges, leaves behind/below the flower and not obscuring it. One flower head only, no other species. Photographic realism with natural slight irregularities, accurate proportions, rich but restrained color, softly diffused daylight, fine detail. Elegant specimen on a plain warm ivory seamless background with subtle contact shadows, complete short sprig centered within 80 percent of square canvas, all leaves and stem inside frame. Flower head large and clear at mobile thumbnail size. No text, labels, decorative shapes, watermark, border, hands, vase, scenery or plastic sheen.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-3296bcc4-41cb-436f-8010-9ee05fbb8af8.png",
+  "project_path": "artifacts/illustrations/kadam.png",
+  "identification_reference": "https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3041"
+}

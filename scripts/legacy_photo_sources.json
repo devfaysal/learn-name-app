@@ -1,0 +1,722 @@
+{
+  "banana": {
+    "title": "File:Bananas white background DS.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/960px-Bananas_white_background_DS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bananas_white_background_DS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3000,
+    "orig_h": 2000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Bananas_white_background_DS.jpg"
+  },
+  "bean": {
+    "title": "File:Lablab-bean pods.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lablab-bean_pods.jpg/960px-Lablab-bean_pods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lablab-bean_pods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3000,
+    "orig_h": 3000,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Lablab-bean_pods.jpg"
+  },
+  "bitter_gourd": {
+    "title": "File:Green Momordica charantia fruit with white background 02.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Green_Momordica_charantia_fruit_with_white_background_02.png/960px-Green_Momordica_charantia_fruit_with_white_background_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Green_Momordica_charantia_fruit_with_white_background_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4032,
+    "orig_h": 3024,
+    "mime": "image/png",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Green_Momordica_charantia_fruit_with_white_background_02.png"
+  },
+  "bottle_gourd": {
+    "title": "File:Courge encore verte.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Courge_encore_verte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Courge_encore_verte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 800,
+    "orig_h": 600,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Courge_encore_verte.jpg"
+  },
+  "buffalo": {
+    "title": "File:Water buffalo at Rinca.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Water_buffalo_at_Rinca.jpg/960px-Water_buffalo_at_Rinca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Water_buffalo_at_Rinca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3335,
+    "orig_h": 2223,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Water_buffalo_at_Rinca.jpg"
+  },
+  "bulbul": {
+    "title": "File:Red-vented bulbul - Jamnagar 2023-11-13.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/960px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1536,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg"
+  },
+  "cabbage": {
+    "title": "File:Cabbage and cross section on white.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cabbage_and_cross_section_on_white.jpg/960px-Cabbage_and_cross_section_on_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cabbage_and_cross_section_on_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2428,
+    "orig_h": 1095,
+    "mime": "image/jpeg",
+    "license": "GFDL 1.2",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Cabbage_and_cross_section_on_white.jpg"
+  },
+  "cat": {
+    "title": "File:Blue and white tabby cat–IMG 6442 02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Blue_and_white_tabby_cat%E2%80%93IMG_6442_02.jpg/960px-Blue_and_white_tabby_cat%E2%80%93IMG_6442_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Blue_and_white_tabby_cat%E2%80%93IMG_6442_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2431,
+    "orig_h": 2431,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Blue_and_white_tabby_cat%E2%80%93IMG_6442_02.jpg"
+  },
+  "catla": {
+    "title": "File:Catla catla.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Catla_catla.JPG/960px-Catla_catla.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Catla_catla.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1536,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Catla_catla.JPG"
+  },
+  "cauliflower": {
+    "title": "File:Chou-fleur 02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Chou-fleur_02.jpg/960px-Chou-fleur_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Chou-fleur_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4320,
+    "orig_h": 3456,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg"
+  },
+  "chicken": {
+    "title": "File:Roadside Rooster (8600896198).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Roadside_Rooster_%288600896198%29.jpg/960px-Roadside_Rooster_%288600896198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Roadside_Rooster_%288600896198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2415,
+    "orig_h": 2244,
+    "mime": "image/jpeg",
+    "license": "CC BY 2.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Roadside_Rooster_(8600896198).jpg"
+  },
+  "climbing_perch": {
+    "title": "File:A testudineus.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_testudineus.jpg/960px-A_testudineus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/A_testudineus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1500,
+    "orig_h": 679,
+    "mime": "image/jpeg",
+    "license": "CC BY 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:A_testudineus.jpg"
+  },
+  "coconut": {
+    "title": "File:Coconuts - single and cracked open.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 8256,
+    "orig_h": 5504,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Coconuts_-_single_and_cracked_open.jpg"
+  },
+  "cow": {
+    "title": "File:Cow female black white.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/960px-Cow_female_black_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2700,
+    "orig_h": 1803,
+    "mime": "image/jpeg",
+    "license": "Public domain",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Cow_female_black_white.jpg"
+  },
+  "crape_jasmine": {
+    "title": "File:Crape Jasmine.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Crape_Jasmine.jpg/960px-Crape_Jasmine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Crape_Jasmine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4426,
+    "orig_h": 2958,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Crape_Jasmine.jpg"
+  },
+  "crow": {
+    "title": "File:Corvus splendens.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Corvus_splendens.jpg/960px-Corvus_splendens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Corvus_splendens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3510,
+    "orig_h": 2489,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Corvus_splendens.jpg"
+  },
+  "cucumber": {
+    "title": "File:Cucumber from Denmark.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Cucumber_from_Denmark.jpg/960px-Cucumber_from_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cucumber_from_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 6016,
+    "orig_h": 4000,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Cucumber_from_Denmark.jpg"
+  },
+  "deer": {
+    "title": "File:066 Chital in Ranthambore National Park Photo by Giles Laurent.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg/960px-066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4466,
+    "orig_h": 5582,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  "dog": {
+    "title": "File:Golden Retriever Sitting Head Ooty Sep26 A7CR 12780.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Golden_Retriever_Sitting_Head_Ooty_Sep26_A7CR_12780.jpg/960px-Golden_Retriever_Sitting_Head_Ooty_Sep26_A7CR_12780.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Golden_Retriever_Sitting_Head_Ooty_Sep26_A7CR_12780.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 6239,
+    "orig_h": 4159,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Sitting_Head_Ooty_Sep26_A7CR_12780.jpg"
+  },
+  "duck": {
+    "title": "File:American Pekin Duck.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/American_Pekin_Duck.jpg/960px-American_Pekin_Duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/American_Pekin_Duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4050,
+    "orig_h": 3020,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:American_Pekin_Duck.jpg"
+  },
+  "eggplant": {
+    "title": "File:Small eggplant and cross section 2017 A.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Small_eggplant_and_cross_section_2017_A.jpg/960px-Small_eggplant_and_cross_section_2017_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Small_eggplant_and_cross_section_2017_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4608,
+    "orig_h": 3456,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Small_eggplant_and_cross_section_2017_A.jpg"
+  },
+  "egret": {
+    "title": "File:Little egret (Egretta garzetta) Photograph by Shantanu Kuveskar.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Little_egret_%28Egretta_garzetta%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Little_egret_%28Egretta_garzetta%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 600,
+    "orig_h": 800,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Little_egret_(Egretta_garzetta)_Photograph_by_Shantanu_Kuveskar.jpg"
+  },
+  "elephant": {
+    "title": "File:Elephas maximus (Bandipur).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/960px-Elephas_maximus_%28Bandipur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Elephas_maximus_%28Bandipur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2598,
+    "orig_h": 1732,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg"
+  },
+  "fox": {
+    "title": "File:Bengal Fox - Shreeram M V - Rajasthan, India.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bengal_Fox_-_Shreeram_M_V_-_Rajasthan%2C_India.jpg/960px-Bengal_Fox_-_Shreeram_M_V_-_Rajasthan%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bengal_Fox_-_Shreeram_M_V_-_Rajasthan%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1500,
+    "orig_h": 1000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Bengal_Fox_-_Shreeram_M_V_-_Rajasthan,_India.jpg"
+  },
+  "goat": {
+    "title": "File:Hausziege 04.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/960px-Hausziege_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3600,
+    "orig_h": 3600,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg"
+  },
+  "guava": {
+    "title": "File:Guava pink fruit.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/960px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 8256,
+    "orig_h": 5504,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Guava_pink_fruit.jpg"
+  },
+  "hibiscus": {
+    "title": "File:Hibiscus rosa-sinensis 'Erin Rachael' Flower 2.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hibiscus_rosa-sinensis_%27Erin_Rachael%27_Flower_2.JPG/960px-Hibiscus_rosa-sinensis_%27Erin_Rachael%27_Flower_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hibiscus_rosa-sinensis_%27Erin_Rachael%27_Flower_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3824,
+    "orig_h": 3264,
+    "mime": "image/jpeg",
+    "license": "GFDL 1.2",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hibiscus_rosa-sinensis_%27Erin_Rachael%27_Flower_2.JPG"
+  },
+  "hilsa": {
+    "title": "File:Ilish (Hilsa) fish.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ilish_%28Hilsa%29_fish.JPG/960px-Ilish_%28Hilsa%29_fish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ilish_%28Hilsa%29_fish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1600,
+    "orig_h": 1051,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ilish_(Hilsa)_fish.JPG"
+  },
+  "horse": {
+    "title": "File:Horse December 2014-1.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Horse_December_2014-1.jpg/960px-Horse_December_2014-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Horse_December_2014-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 6971,
+    "orig_h": 4912,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Horse_December_2014-1.jpg"
+  },
+  "ixora": {
+    "title": "File:Ixora coccinea.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ixora_coccinea.jpg/960px-Ixora_coccinea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ixora_coccinea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1371,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ixora_coccinea.jpg"
+  },
+  "jackfruit": {
+    "title": "File:Jackfruit hanging.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Jackfruit_hanging.JPG/960px-Jackfruit_hanging.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Jackfruit_hanging.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2000,
+    "orig_h": 3000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Jackfruit_hanging.JPG"
+  },
+  "jasmine": {
+    "title": "File:Arabian jasmin, Tunisia 2010.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Arabian_jasmin%2C_Tunisia_2010.jpg/960px-Arabian_jasmin%2C_Tunisia_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Arabian_jasmin%2C_Tunisia_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2592,
+    "orig_h": 1944,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Arabian_jasmin,_Tunisia_2010.jpg"
+  },
+  "jujube": {
+    "title": "File:Indian jujube (fruit).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Indian_jujube_%28fruit%29.jpg/960px-Indian_jujube_%28fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Indian_jujube_%28fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3000,
+    "orig_h": 2000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Indian_jujube_(fruit).jpg"
+  },
+  "kingfisher": {
+    "title": "File:White-throated kingfisher (Halcyon smyrnensis) Galle.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/960px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2786,
+    "orig_h": 2248,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_(Halcyon_smyrnensis)_Galle.jpg"
+  },
+  "koel": {
+    "title": "File:Koel male Basavanagudi Bangalore.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Koel_male_Basavanagudi_Bangalore.jpg/960px-Koel_male_Basavanagudi_Bangalore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Koel_male_Basavanagudi_Bangalore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3000,
+    "orig_h": 3000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Koel_male_Basavanagudi_Bangalore.jpg"
+  },
+  "lotus": {
+    "title": "File:Sacred lotus Nelumbo nucifera.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Sacred_lotus_Nelumbo_nucifera.jpg/960px-Sacred_lotus_Nelumbo_nucifera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sacred_lotus_Nelumbo_nucifera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2312,
+    "orig_h": 2119,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg"
+  },
+  "lychee": {
+    "title": "File:Lychee fruits and seed.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lychee_fruits_and_seed.jpg/960px-Lychee_fruits_and_seed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lychee_fruits_and_seed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 6000,
+    "orig_h": 4000,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Lychee_fruits_and_seed.jpg"
+  },
+  "magpie_robin": {
+    "title": "File:Oriental magpie-robin (Copsychus saularis ceylonensis) male.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Oriental_magpie-robin_%28Copsychus_saularis_ceylonensis%29_male.jpg/960px-Oriental_magpie-robin_%28Copsychus_saularis_ceylonensis%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Oriental_magpie-robin_%28Copsychus_saularis_ceylonensis%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2513,
+    "orig_h": 1675,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oriental_magpie-robin_(Copsychus_saularis_ceylonensis)_male.jpg"
+  },
+  "mango": {
+    "title": "File:Mangos - single and halved.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mangos_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 8256,
+    "orig_h": 5504,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg"
+  },
+  "marigold": {
+    "title": "File:Tagetes erecta–IMG 6606 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tagetes_erecta%E2%80%93IMG_6606_01.jpg/960px-Tagetes_erecta%E2%80%93IMG_6606_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tagetes_erecta%E2%80%93IMG_6606_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2794,
+    "orig_h": 2795,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tagetes_erecta%E2%80%93IMG_6606_01.jpg"
+  },
+  "mola": {
+    "title": "File:Amblypharyngodon chulabhornae (Assam).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Amblypharyngodon_chulabhornae_%28Assam%29.jpg/960px-Amblypharyngodon_chulabhornae_%28Assam%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Amblypharyngodon_chulabhornae_%28Assam%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2160,
+    "orig_h": 1364,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Amblypharyngodon_chulabhornae_(Assam).jpg"
+  },
+  "monkey": {
+    "title": "File:Macaca mulatta (22886604281).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Macaca_mulatta_%2822886604281%29.jpg/960px-Macaca_mulatta_%2822886604281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Macaca_mulatta_%2822886604281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 5472,
+    "orig_h": 3648,
+    "mime": "image/jpeg",
+    "license": "CC BY 2.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Macaca_mulatta_(22886604281).jpg"
+  },
+  "mrigal": {
+    "title": "File:Cirrhinus cirrhosus from the Nandu River.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cirrhinus_cirrhosus_from_the_Nandu_River.jpg/960px-Cirrhinus_cirrhosus_from_the_Nandu_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cirrhinus_cirrhosus_from_the_Nandu_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2068,
+    "orig_h": 1080,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Cirrhinus_cirrhosus_from_the_Nandu_River.jpg"
+  },
+  "myna": {
+    "title": "File:Acridotheres tristis00.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 610,
+    "orig_h": 848,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg"
+  },
+  "night_jasmine": {
+    "title": "File:(Nyctanthes arbor-tristis) flower at Madhurawada 01.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%28Nyctanthes_arbor-tristis%29_flower_at_Madhurawada_01.JPG/960px-%28Nyctanthes_arbor-tristis%29_flower_at_Madhurawada_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/%28Nyctanthes_arbor-tristis%29_flower_at_Madhurawada_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2806,
+    "orig_h": 2105,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:(Nyctanthes_arbor-tristis)_flower_at_Madhurawada_01.JPG"
+  },
+  "okra": {
+    "title": "File:Okra - Abelmoschus esculentus (Vendakka-ml).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Okra_-_Abelmoschus_esculentus_%28Vendakka-ml%29.jpg/960px-Okra_-_Abelmoschus_esculentus_%28Vendakka-ml%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Okra_-_Abelmoschus_esculentus_%28Vendakka-ml%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1536,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 2.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okra_-_Abelmoschus_esculentus_(Vendakka-ml).jpg"
+  },
+  "pabda": {
+    "title": "File:Butterfish (Pabda).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Butterfish_%28Pabda%29.jpg/960px-Butterfish_%28Pabda%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Butterfish_%28Pabda%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3876,
+    "orig_h": 2918,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Butterfish_(Pabda).jpg"
+  },
+  "papaya": {
+    "title": "File:Papaya - longitudinal section.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/960px-Papaya_-_longitudinal_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Papaya_-_longitudinal_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 8256,
+    "orig_h": 5504,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section.jpg"
+  },
+  "parakeet": {
+    "title": "File:A Rose-Ringed parakeet perched on a tree trunk.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/A_Rose-Ringed_parakeet_perched_on_a_tree_trunk.jpg/960px-A_Rose-Ringed_parakeet_perched_on_a_tree_trunk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_Rose-Ringed_parakeet_perched_on_a_tree_trunk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3152,
+    "orig_h": 4203,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:A_Rose-Ringed_parakeet_perched_on_a_tree_trunk.jpg"
+  },
+  "periwinkle": {
+    "title": "File:Periwinkle flower Closeup.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Periwinkle_flower_Closeup.jpg/960px-Periwinkle_flower_Closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Periwinkle_flower_Closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1365,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Periwinkle_flower_Closeup.jpg"
+  },
+  "pigeon": {
+    "title": "File:Columba livia (Rock Dove, wild), Duncansby Head, Caithness, Scotland 1.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/960px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1536,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Columba_livia_(Rock_Dove,_wild),_Duncansby_Head,_Caithness,_Scotland_1.jpg"
+  },
+  "pineapple": {
+    "title": "File:Pineapple and cross section.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/960px-Pineapple_and_cross_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1772,
+    "orig_h": 1488,
+    "mime": "image/jpeg",
+    "license": "GFDL 1.2",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Pineapple_and_cross_section.jpg"
+  },
+  "potato": {
+    "title": "File:Potato and cross section.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Potato_and_cross_section.jpg/960px-Potato_and_cross_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Potato_and_cross_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1600,
+    "orig_h": 1067,
+    "mime": "image/jpeg",
+    "license": "GFDL 1.2",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Potato_and_cross_section.jpg"
+  },
+  "pumpkin": {
+    "title": "File:Cucurbita maxima 02 - Orange.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cucurbita_maxima_02_-_Orange.jpg/960px-Cucurbita_maxima_02_-_Orange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cucurbita_maxima_02_-_Orange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3072,
+    "orig_h": 2048,
+    "mime": "image/jpeg",
+    "license": "CC BY 2.5",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Cucurbita_maxima_02_-_Orange.jpg"
+  },
+  "punti": {
+    "title": "File:Pethia conchonius Prachtbarbe.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pethia_conchonius_Prachtbarbe.JPG/960px-Pethia_conchonius_Prachtbarbe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pethia_conchonius_Prachtbarbe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2862,
+    "orig_h": 1365,
+    "mime": "image/jpeg",
+    "license": "CC0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Pethia_conchonius_Prachtbarbe.JPG"
+  },
+  "radish": {
+    "title": "File:Raphanus sativus Daikon White (white daikon radish) (SaatPilot).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Raphanus_sativus_Daikon_White_%28white_daikon_radish%29_%28SaatPilot%29.jpg/960px-Raphanus_sativus_Daikon_White_%28white_daikon_radish%29_%28SaatPilot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Raphanus_sativus_Daikon_White_%28white_daikon_radish%29_%28SaatPilot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1254,
+    "orig_h": 1254,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Raphanus_sativus_Daikon_White_(white_daikon_radish)_(SaatPilot).jpg"
+  },
+  "rohu": {
+    "title": "File:रोहू Rohu (Labeo rohita).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E0%A4%B0%E0%A5%8B%E0%A4%B9%E0%A5%82_Rohu_%28Labeo_rohita%29.jpg/960px-%E0%A4%B0%E0%A5%8B%E0%A4%B9%E0%A5%82_Rohu_%28Labeo_rohita%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/%E0%A4%B0%E0%A5%8B%E0%A4%B9%E0%A5%82_Rohu_%28Labeo_rohita%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1232,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E0%A4%B0%E0%A5%8B%E0%A4%B9%E0%A5%82_Rohu_(Labeo_rohita).jpg"
+  },
+  "rose": {
+    "title": "File:Rose red on white background.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Rose_red_on_white_background.jpg/960px-Rose_red_on_white_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rose_red_on_white_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1093,
+    "orig_h": 1416,
+    "mime": "image/jpeg",
+    "license": "Public domain",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Rose_red_on_white_background.jpg"
+  },
+  "sheep": {
+    "title": "File:Sardinian Sheep portrait.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sardinian_Sheep_portrait.jpg/960px-Sardinian_Sheep_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sardinian_Sheep_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4353,
+    "orig_h": 3179,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sardinian_Sheep_portrait.jpg"
+  },
+  "snakehead": {
+    "title": "File:Channa striata 342778351.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Channa_striata_342778351.jpg/960px-Channa_striata_342778351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Channa_striata_342778351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 2048,
+    "orig_h": 1533,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Channa_striata_342778351.jpg"
+  },
+  "sparrow": {
+    "title": "File:House sparrow male in Prospect Park (53532).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/960px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4400,
+    "orig_h": 3422,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg"
+  },
+  "spotted_snakehead": {
+    "title": "File:Spooted Snakehead Channa punctatus.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Spooted_Snakehead_Channa_punctatus.jpg/960px-Spooted_Snakehead_Channa_punctatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Spooted_Snakehead_Channa_punctatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4260,
+    "orig_h": 3048,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Spooted_Snakehead_Channa_punctatus.jpg"
+  },
+  "starfruit": {
+    "title": "File:Starfruit for Wikispore.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Starfruit_for_Wikispore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Starfruit_for_Wikispore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 802,
+    "orig_h": 767,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Starfruit_for_Wikispore.jpg"
+  },
+  "stinging_catfish": {
+    "title": "File:सिंगुर (cropped).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%81%E0%A4%B0_%28cropped%29.jpg/960px-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%81%E0%A4%B0_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%81%E0%A4%B0_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4141,
+    "orig_h": 1277,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%81%E0%A4%B0_(cropped).jpg"
+  },
+  "sunflower": {
+    "title": "File:Sunflower sky backdrop.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1404,
+    "orig_h": 1555,
+    "mime": "image/jpeg",
+    "license": "GFDL 1.2",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sunflower_sky_backdrop.jpg"
+  },
+  "tiger": {
+    "title": "File:Bengal Tiger Portrait.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bengal_Tiger_Portrait.jpg/960px-Bengal_Tiger_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bengal_Tiger_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 5283,
+    "orig_h": 3522,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Bengal_Tiger_Portrait.jpg"
+  },
+  "tomato": {
+    "title": "File:Tomato je.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/960px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 1800,
+    "orig_h": 1497,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg"
+  },
+  "tuberose": {
+    "title": "File:Tuberose flower.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tuberose_flower.jpg/960px-Tuberose_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tuberose_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3632,
+    "orig_h": 5456,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tuberose_flower.jpg"
+  },
+  "walking_catfish": {
+    "title": "File:Clarias aff. batrachus (10.3897-BDJ.11.e100337) Figure 19.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Clarias_aff._batrachus_%2810.3897-BDJ.11.e100337%29_Figure_19.jpg/960px-Clarias_aff._batrachus_%2810.3897-BDJ.11.e100337%29_Figure_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Clarias_aff._batrachus_%2810.3897-BDJ.11.e100337%29_Figure_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4479,
+    "orig_h": 1847,
+    "mime": "image/jpeg",
+    "license": "CC BY 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Clarias_aff._batrachus_(10.3897-BDJ.11.e100337)_Figure_19.jpg"
+  },
+  "water_lily": {
+    "title": "File:Daubeny's water lily at BBG (50824).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Daubeny%27s_water_lily_at_BBG_%2850824%29.jpg/960px-Daubeny%27s_water_lily_at_BBG_%2850824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Daubeny%27s_water_lily_at_BBG_%2850824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 4028,
+    "orig_h": 3346,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Daubeny%27s_water_lily_at_BBG_(50824).jpg"
+  },
+  "watermelon": {
+    "title": "File:8424西瓜.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/8424%E8%A5%BF%E7%93%9C.jpg/960px-8424%E8%A5%BF%E7%93%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/8424%E8%A5%BF%E7%93%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3968,
+    "orig_h": 2976,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 3.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:8424%E8%A5%BF%E7%93%9C.jpg"
+  },
+  "wood_apple": {
+    "title": "File:Bael fruit (3).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bael_fruit_%283%29.jpg/960px-Bael_fruit_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "orig_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bael_fruit_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "orig_w": 3998,
+    "orig_h": 2666,
+    "mime": "image/jpeg",
+    "license": "CC BY-SA 4.0",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Bael_fruit_(3).jpg"
+  }
+}

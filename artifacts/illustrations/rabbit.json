@@ -1,0 +1,8 @@
+{
+  "id": "rabbit",
+  "prompt": "Use case: precise-object-edit. Correct this rabbit's head orientation so BOTH EYES ARE CLEARLY VISIBLE. Turn its head to face DIRECTLY TOWARD THE CAMERA, symmetrical frontal face, nose pointing straight at viewer, both natural dark eyes equally visible on either side of its nose, neither eye obscured by cheek, fur, angle, ear, or muzzle. The body can remain in a relaxed three-quarter crouched seated pose extending to the right, but the face must be fully frontal. Keep the rabbit's head and both ears in the left half of the square image, preserving empty ivory space in the upper-right 30 percent by 30 percent for an app favorite button. Preserve the brown-and-white domestic rabbit identity, realistic compact body and short forelegs, detailed soft natural fur and whiskers, naturally proportioned upright ears, small pink nose, natural rabbit eyes without enlargement, visible feet and cotton tail. Realistic animal photography quality, soft diffuse daylight, warm ivory background and subtle ground shadow. Entire rabbit fully visible with safe margins. Do not return a side-profile face or hide either eye. No cartoon exaggeration, text, props, accessories, watermark or border.",
+  "tool": "built-in image_gen",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-3d927d82-b9b6-4a4b-9b17-4f4bd73f2851.png",
+  "project_path": "artifacts/illustrations/rabbit.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-e398c000-ddf4-4e78-9234-37f982e2844b.png"
+}

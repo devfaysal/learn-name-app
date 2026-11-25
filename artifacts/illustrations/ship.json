@@ -1,0 +1,7 @@
+{
+  "id": "ship",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square premium realistic vehicle portrait for a children's Bengali-English picture dictionary. Match a collection of lifelike photographic subject portraits on plain warm ivory seamless backgrounds, softly diffused daylight, subtle contact shadows, natural colors and fine material details. Accurate real-world proportions and mechanical structure, approachable but NOT toy-like or cartoon, no exaggerated features. Entire vehicle including wheels, antennas, wings, rotors or hull fully visible within the central 80 percent of the square, with generous clear margins. Crisp readable silhouette at mobile thumbnail size. No people, drivers, human silhouettes, buildings, scenery, decorative graphics, readable text, license plate characters, brand logos, watermark or border. For watercraft, show complete hull on the same clean ivory backdrop with subtle shadow, no water scene. Subject: A large ocean cargo ship with navy blue hull, stacks of red blue and yellow shipping containers on deck, white bridge superstructure near stern, bow toward left in three-quarter view, full ship contained in frame.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-3a050dc3-77c9-469e-87a6-4d1e0bb3cba6.png",
+  "project_path": "artifacts/illustrations/ship.png"
+}

@@ -1,0 +1,1476 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "bn": "প্রাণী",
+      "en": "Animals",
+      "color": "#EDE8D9",
+      "cover": "tiger"
+    },
+    {
+      "id": "birds",
+      "bn": "পাখি",
+      "en": "Birds",
+      "color": "#E5EEDC",
+      "cover": "magpie_robin"
+    },
+    {
+      "id": "fruits",
+      "bn": "ফল",
+      "en": "Fruits",
+      "color": "#F6EBD4",
+      "cover": "mango"
+    },
+    {
+      "id": "vegetables",
+      "bn": "সবজি",
+      "en": "Vegetables",
+      "color": "#E8EDDA",
+      "cover": "eggplant"
+    },
+    {
+      "id": "crops",
+      "bn": "শস্য",
+      "en": "Crops",
+      "color": "#F2E8CF",
+      "cover": "paddy"
+    },
+    {
+      "id": "flowers",
+      "bn": "ফুল",
+      "en": "Flowers",
+      "color": "#F5E4DC",
+      "cover": "water_lily"
+    },
+    {
+      "id": "fish",
+      "bn": "মাছ",
+      "en": "Fish",
+      "color": "#E0EDF0",
+      "cover": "hilsa"
+    },
+    {
+      "id": "insects",
+      "bn": "পোকামাকড়",
+      "en": "Insects",
+      "color": "#E9EDDA",
+      "cover": "ant"
+    },
+    {
+      "id": "vehicles",
+      "bn": "যানবাহন",
+      "en": "Vehicles",
+      "color": "#E3EAF3",
+      "cover": "car"
+    },
+    {
+      "id": "colors",
+      "bn": "রং",
+      "en": "Colors",
+      "color": "#F2E5E8",
+      "cover": "color_red"
+    }
+  ],
+  "entries": [
+    {
+      "id": "tiger",
+      "category": "animals",
+      "bn": "বাঘ",
+      "en": "Tiger",
+      "picture": "pictures/tiger.webp"
+    },
+    {
+      "id": "elephant",
+      "category": "animals",
+      "bn": "হাতি",
+      "en": "Elephant",
+      "picture": "pictures/elephant.webp"
+    },
+    {
+      "id": "deer",
+      "category": "animals",
+      "bn": "হরিণ",
+      "en": "Deer",
+      "picture": "pictures/deer.webp"
+    },
+    {
+      "id": "monkey",
+      "category": "animals",
+      "bn": "বানর",
+      "en": "Monkey",
+      "picture": "pictures/monkey.webp"
+    },
+    {
+      "id": "cow",
+      "category": "animals",
+      "bn": "গরু",
+      "en": "Cow",
+      "picture": "pictures/cow.webp"
+    },
+    {
+      "id": "goat",
+      "category": "animals",
+      "bn": "ছাগল",
+      "en": "Goat",
+      "picture": "pictures/goat.webp"
+    },
+    {
+      "id": "sheep",
+      "category": "animals",
+      "bn": "ভেড়া",
+      "en": "Sheep",
+      "picture": "pictures/sheep.webp"
+    },
+    {
+      "id": "buffalo",
+      "category": "animals",
+      "bn": "মহিষ",
+      "en": "Buffalo",
+      "picture": "pictures/buffalo.webp"
+    },
+    {
+      "id": "horse",
+      "category": "animals",
+      "bn": "ঘোড়া",
+      "en": "Horse",
+      "picture": "pictures/horse.webp"
+    },
+    {
+      "id": "cat",
+      "category": "animals",
+      "bn": "বিড়াল",
+      "en": "Cat",
+      "picture": "pictures/cat.webp"
+    },
+    {
+      "id": "dog",
+      "category": "animals",
+      "bn": "কুকুর",
+      "en": "Dog",
+      "picture": "pictures/dog.webp"
+    },
+    {
+      "id": "lion",
+      "category": "animals",
+      "bn": "সিংহ",
+      "en": "Lion",
+      "picture": "pictures/lion.webp"
+    },
+    {
+      "id": "rabbit",
+      "category": "animals",
+      "bn": "খরগোশ",
+      "en": "Rabbit",
+      "picture": "pictures/rabbit.webp"
+    },
+    {
+      "id": "squirrel",
+      "category": "animals",
+      "bn": "কাঠবিড়ালি",
+      "en": "Squirrel",
+      "picture": "pictures/squirrel.webp"
+    },
+    {
+      "id": "mongoose",
+      "category": "animals",
+      "bn": "বেজি",
+      "en": "Mongoose",
+      "picture": "pictures/mongoose.webp"
+    },
+    {
+      "id": "otter",
+      "category": "animals",
+      "bn": "ভোঁদড়",
+      "en": "Otter",
+      "picture": "pictures/otter.webp"
+    },
+    {
+      "id": "jackal",
+      "category": "animals",
+      "bn": "শিয়াল",
+      "en": "Jackal",
+      "picture": "pictures/jackal.webp"
+    },
+    {
+      "id": "donkey",
+      "category": "animals",
+      "bn": "গাধা",
+      "en": "Donkey",
+      "picture": "pictures/donkey.webp"
+    },
+    {
+      "id": "porcupine",
+      "category": "animals",
+      "bn": "সজারু",
+      "en": "Porcupine",
+      "picture": "pictures/porcupine.webp"
+    },
+    {
+      "id": "giraffe",
+      "category": "animals",
+      "bn": "জিরাফ",
+      "en": "Giraffe",
+      "picture": "pictures/giraffe.webp"
+    },
+    {
+      "id": "magpie_robin",
+      "category": "birds",
+      "bn": "দোয়েল",
+      "en": "Magpie-robin",
+      "picture": "pictures/magpie_robin.webp"
+    },
+    {
+      "id": "parakeet",
+      "category": "birds",
+      "bn": "টিয়া",
+      "en": "Parakeet",
+      "picture": "pictures/parakeet.webp"
+    },
+    {
+      "id": "myna",
+      "category": "birds",
+      "bn": "শালিক",
+      "en": "Myna",
+      "picture": "pictures/myna.webp"
+    },
+    {
+      "id": "sparrow",
+      "category": "birds",
+      "bn": "চড়ুই",
+      "en": "Sparrow",
+      "picture": "pictures/sparrow.webp"
+    },
+    {
+      "id": "crow",
+      "category": "birds",
+      "bn": "কাক",
+      "en": "Crow",
+      "picture": "pictures/crow.webp"
+    },
+    {
+      "id": "pigeon",
+      "category": "birds",
+      "bn": "কবুতর",
+      "en": "Pigeon",
+      "picture": "pictures/pigeon.webp"
+    },
+    {
+      "id": "kingfisher",
+      "category": "birds",
+      "bn": "মাছরাঙা",
+      "en": "Kingfisher",
+      "picture": "pictures/kingfisher.webp"
+    },
+    {
+      "id": "bulbul",
+      "category": "birds",
+      "bn": "বুলবুলি",
+      "en": "Bulbul",
+      "picture": "pictures/bulbul.webp"
+    },
+    {
+      "id": "koel",
+      "category": "birds",
+      "bn": "কোকিল",
+      "en": "Koel",
+      "picture": "pictures/koel.webp"
+    },
+    {
+      "id": "egret",
+      "category": "birds",
+      "bn": "বক",
+      "en": "Egret",
+      "picture": "pictures/egret.webp"
+    },
+    {
+      "id": "duck",
+      "category": "birds",
+      "bn": "হাঁস",
+      "en": "Duck",
+      "picture": "pictures/duck.webp"
+    },
+    {
+      "id": "chicken",
+      "category": "birds",
+      "bn": "মুরগি",
+      "en": "Chicken",
+      "picture": "pictures/chicken.webp"
+    },
+    {
+      "id": "peacock",
+      "category": "birds",
+      "bn": "ময়ূর",
+      "en": "Peacock",
+      "picture": "pictures/peacock.webp"
+    },
+    {
+      "id": "woodpecker",
+      "category": "birds",
+      "bn": "কাঠঠোকরা",
+      "en": "Woodpecker",
+      "picture": "pictures/woodpecker.webp"
+    },
+    {
+      "id": "owl",
+      "category": "birds",
+      "bn": "পেঁচা",
+      "en": "Owl",
+      "picture": "pictures/owl.webp"
+    },
+    {
+      "id": "kite",
+      "category": "birds",
+      "bn": "চিল",
+      "en": "Kite",
+      "picture": "pictures/kite.webp"
+    },
+    {
+      "id": "vulture",
+      "category": "birds",
+      "bn": "শকুন",
+      "en": "Vulture",
+      "picture": "pictures/vulture.webp"
+    },
+    {
+      "id": "dove",
+      "category": "birds",
+      "bn": "ঘুঘু",
+      "en": "Dove",
+      "picture": "pictures/dove.webp"
+    },
+    {
+      "id": "tailorbird",
+      "category": "birds",
+      "bn": "টুনটুনি",
+      "en": "Tailorbird",
+      "picture": "pictures/tailorbird.webp"
+    },
+    {
+      "id": "oriole",
+      "category": "birds",
+      "bn": "হলদে পাখি",
+      "en": "Oriole",
+      "picture": "pictures/oriole.webp"
+    },
+    {
+      "id": "mango",
+      "category": "fruits",
+      "bn": "আম",
+      "en": "Mango",
+      "picture": "pictures/mango.webp"
+    },
+    {
+      "id": "jackfruit",
+      "category": "fruits",
+      "bn": "কাঁঠাল",
+      "en": "Jackfruit",
+      "picture": "pictures/jackfruit.webp"
+    },
+    {
+      "id": "banana",
+      "category": "fruits",
+      "bn": "কলা",
+      "en": "Banana",
+      "picture": "pictures/banana.webp"
+    },
+    {
+      "id": "lychee",
+      "category": "fruits",
+      "bn": "লিচু",
+      "en": "Lychee",
+      "picture": "pictures/lychee.webp"
+    },
+    {
+      "id": "guava",
+      "category": "fruits",
+      "bn": "পেয়ারা",
+      "en": "Guava",
+      "picture": "pictures/guava.webp"
+    },
+    {
+      "id": "papaya",
+      "category": "fruits",
+      "bn": "পেঁপে",
+      "en": "Papaya",
+      "picture": "pictures/papaya.webp"
+    },
+    {
+      "id": "pineapple",
+      "category": "fruits",
+      "bn": "আনারস",
+      "en": "Pineapple",
+      "picture": "pictures/pineapple.webp"
+    },
+    {
+      "id": "watermelon",
+      "category": "fruits",
+      "bn": "তরমুজ",
+      "en": "Watermelon",
+      "picture": "pictures/watermelon.webp"
+    },
+    {
+      "id": "coconut",
+      "category": "fruits",
+      "bn": "নারকেল",
+      "en": "Coconut",
+      "picture": "pictures/coconut.webp"
+    },
+    {
+      "id": "jujube",
+      "category": "fruits",
+      "bn": "বরই",
+      "en": "Jujube",
+      "picture": "pictures/jujube.webp"
+    },
+    {
+      "id": "starfruit",
+      "category": "fruits",
+      "bn": "কামরাঙা",
+      "en": "Star fruit",
+      "picture": "pictures/starfruit.webp"
+    },
+    {
+      "id": "wood_apple",
+      "category": "fruits",
+      "bn": "বেল",
+      "en": "Bael",
+      "picture": "pictures/wood_apple.webp"
+    },
+    {
+      "id": "apple",
+      "category": "fruits",
+      "bn": "আপেল",
+      "en": "Apple",
+      "picture": "pictures/apple.webp"
+    },
+    {
+      "id": "orange",
+      "category": "fruits",
+      "bn": "কমলা",
+      "en": "Orange",
+      "picture": "pictures/orange.webp"
+    },
+    {
+      "id": "lemon",
+      "category": "fruits",
+      "bn": "লেবু",
+      "en": "Lemon",
+      "picture": "pictures/lemon.webp"
+    },
+    {
+      "id": "pomegranate",
+      "category": "fruits",
+      "bn": "ডালিম",
+      "en": "Pomegranate",
+      "picture": "pictures/pomegranate.webp"
+    },
+    {
+      "id": "grapes",
+      "category": "fruits",
+      "bn": "আঙুর",
+      "en": "Grapes",
+      "picture": "pictures/grapes.webp"
+    },
+    {
+      "id": "tamarind",
+      "category": "fruits",
+      "bn": "তেঁতুল",
+      "en": "Tamarind",
+      "picture": "pictures/tamarind.webp"
+    },
+    {
+      "id": "custard_apple",
+      "category": "fruits",
+      "bn": "আতা",
+      "en": "Custard apple",
+      "picture": "pictures/custard_apple.webp"
+    },
+    {
+      "id": "wax_apple",
+      "category": "fruits",
+      "bn": "জামরুল",
+      "en": "Wax apple",
+      "picture": "pictures/wax_apple.webp"
+    },
+    {
+      "id": "eggplant",
+      "category": "vegetables",
+      "bn": "বেগুন",
+      "en": "Eggplant",
+      "picture": "pictures/eggplant.webp"
+    },
+    {
+      "id": "potato",
+      "category": "vegetables",
+      "bn": "আলু",
+      "en": "Potato",
+      "picture": "pictures/potato.webp"
+    },
+    {
+      "id": "tomato",
+      "category": "vegetables",
+      "bn": "টমেটো",
+      "en": "Tomato",
+      "picture": "pictures/tomato.webp"
+    },
+    {
+      "id": "bottle_gourd",
+      "category": "vegetables",
+      "bn": "লাউ",
+      "en": "Bottle gourd",
+      "picture": "pictures/bottle_gourd.webp"
+    },
+    {
+      "id": "pumpkin",
+      "category": "vegetables",
+      "bn": "মিষ্টি কুমড়া",
+      "en": "Pumpkin",
+      "picture": "pictures/pumpkin.webp"
+    },
+    {
+      "id": "bitter_gourd",
+      "category": "vegetables",
+      "bn": "করলা",
+      "en": "Bitter gourd",
+      "picture": "pictures/bitter_gourd.webp"
+    },
+    {
+      "id": "okra",
+      "category": "vegetables",
+      "bn": "ঢেঁড়স",
+      "en": "Okra",
+      "picture": "pictures/okra.webp"
+    },
+    {
+      "id": "cauliflower",
+      "category": "vegetables",
+      "bn": "ফুলকপি",
+      "en": "Cauliflower",
+      "picture": "pictures/cauliflower.webp"
+    },
+    {
+      "id": "cabbage",
+      "category": "vegetables",
+      "bn": "বাঁধাকপি",
+      "en": "Cabbage",
+      "picture": "pictures/cabbage.webp"
+    },
+    {
+      "id": "radish",
+      "category": "vegetables",
+      "bn": "মুলা",
+      "en": "Radish",
+      "picture": "pictures/radish.webp"
+    },
+    {
+      "id": "cucumber",
+      "category": "vegetables",
+      "bn": "শসা",
+      "en": "Cucumber",
+      "picture": "pictures/cucumber.webp"
+    },
+    {
+      "id": "bean",
+      "category": "vegetables",
+      "bn": "শিম",
+      "en": "Bean",
+      "picture": "pictures/bean.webp"
+    },
+    {
+      "id": "carrot",
+      "category": "vegetables",
+      "bn": "গাজর",
+      "en": "Carrot",
+      "picture": "pictures/carrot.webp"
+    },
+    {
+      "id": "spine_gourd",
+      "category": "vegetables",
+      "bn": "কাঁকরোল",
+      "en": "Spine gourd",
+      "picture": "pictures/spine_gourd.webp"
+    },
+    {
+      "id": "onion",
+      "category": "vegetables",
+      "bn": "পেঁয়াজ",
+      "en": "Onion",
+      "picture": "pictures/onion.webp"
+    },
+    {
+      "id": "garlic",
+      "category": "vegetables",
+      "bn": "রসুন",
+      "en": "Garlic",
+      "picture": "pictures/garlic.webp"
+    },
+    {
+      "id": "ginger",
+      "category": "vegetables",
+      "bn": "আদা",
+      "en": "Ginger",
+      "picture": "pictures/ginger.webp"
+    },
+    {
+      "id": "chili",
+      "category": "vegetables",
+      "bn": "মরিচ",
+      "en": "Chili",
+      "picture": "pictures/chili.webp"
+    },
+    {
+      "id": "ridge_gourd",
+      "category": "vegetables",
+      "bn": "ঝিঙে",
+      "en": "Ridge gourd",
+      "picture": "pictures/ridge_gourd.webp"
+    },
+    {
+      "id": "pointed_gourd",
+      "category": "vegetables",
+      "bn": "পটল",
+      "en": "Pointed gourd",
+      "picture": "pictures/pointed_gourd.webp"
+    },
+    {
+      "id": "paddy",
+      "category": "crops",
+      "bn": "ধান",
+      "en": "Paddy",
+      "picture": "pictures/paddy.webp"
+    },
+    {
+      "id": "wheat",
+      "category": "crops",
+      "bn": "গম",
+      "en": "Wheat",
+      "picture": "pictures/wheat.webp"
+    },
+    {
+      "id": "maize",
+      "category": "crops",
+      "bn": "ভুট্টা",
+      "en": "Maize",
+      "picture": "pictures/maize.webp"
+    },
+    {
+      "id": "barley",
+      "category": "crops",
+      "bn": "যব",
+      "en": "Barley",
+      "picture": "pictures/barley.webp"
+    },
+    {
+      "id": "nigella",
+      "category": "crops",
+      "bn": "কালোজিরা",
+      "en": "Nigella seeds",
+      "picture": "pictures/nigella.webp"
+    },
+    {
+      "id": "coriander_seed",
+      "category": "crops",
+      "bn": "ধনে",
+      "en": "Coriander seeds",
+      "picture": "pictures/coriander_seed.webp"
+    },
+    {
+      "id": "foxtail_millet",
+      "category": "crops",
+      "bn": "কাউন",
+      "en": "Foxtail millet",
+      "picture": "pictures/foxtail_millet.webp"
+    },
+    {
+      "id": "lentil",
+      "category": "crops",
+      "bn": "মসুর ডাল",
+      "en": "Lentil",
+      "picture": "pictures/lentil.webp"
+    },
+    {
+      "id": "mung_bean",
+      "category": "crops",
+      "bn": "মুগ ডাল",
+      "en": "Mung bean",
+      "picture": "pictures/mung_bean.webp"
+    },
+    {
+      "id": "black_gram",
+      "category": "crops",
+      "bn": "মাসকলাই",
+      "en": "Black gram",
+      "picture": "pictures/black_gram.webp"
+    },
+    {
+      "id": "chickpea",
+      "category": "crops",
+      "bn": "ছোলা",
+      "en": "Chickpea",
+      "picture": "pictures/chickpea.webp"
+    },
+    {
+      "id": "pea",
+      "category": "crops",
+      "bn": "মটর",
+      "en": "Pea",
+      "picture": "pictures/pea.webp"
+    },
+    {
+      "id": "grass_pea",
+      "category": "crops",
+      "bn": "খেসারি",
+      "en": "Grass pea",
+      "picture": "pictures/grass_pea.webp"
+    },
+    {
+      "id": "pigeon_pea",
+      "category": "crops",
+      "bn": "অড়হর",
+      "en": "Pigeon pea",
+      "picture": "pictures/pigeon_pea.webp"
+    },
+    {
+      "id": "mustard_seed",
+      "category": "crops",
+      "bn": "সরিষা",
+      "en": "Mustard",
+      "picture": "pictures/mustard_seed.webp"
+    },
+    {
+      "id": "sesame_seed",
+      "category": "crops",
+      "bn": "তিল",
+      "en": "Sesame",
+      "picture": "pictures/sesame_seed.webp"
+    },
+    {
+      "id": "soybean",
+      "category": "crops",
+      "bn": "সয়াবিন",
+      "en": "Soybean",
+      "picture": "pictures/soybean.webp"
+    },
+    {
+      "id": "peanut",
+      "category": "crops",
+      "bn": "চিনাবাদাম",
+      "en": "Peanut",
+      "picture": "pictures/peanut.webp"
+    },
+    {
+      "id": "flaxseed",
+      "category": "crops",
+      "bn": "তিসি",
+      "en": "Flaxseed",
+      "picture": "pictures/flaxseed.webp"
+    },
+    {
+      "id": "sunflower_seed",
+      "category": "crops",
+      "bn": "সূর্যমুখীর বীজ",
+      "en": "Sunflower seed",
+      "picture": "pictures/sunflower_seed.webp"
+    },
+    {
+      "id": "water_lily",
+      "category": "flowers",
+      "bn": "শাপলা",
+      "en": "Water lily",
+      "picture": "pictures/water_lily.webp"
+    },
+    {
+      "id": "lotus",
+      "category": "flowers",
+      "bn": "পদ্ম",
+      "en": "Lotus",
+      "picture": "pictures/lotus.webp"
+    },
+    {
+      "id": "rose",
+      "category": "flowers",
+      "bn": "গোলাপ",
+      "en": "Rose",
+      "picture": "pictures/rose.webp"
+    },
+    {
+      "id": "hibiscus",
+      "category": "flowers",
+      "bn": "জবা",
+      "en": "Hibiscus",
+      "picture": "pictures/hibiscus.webp"
+    },
+    {
+      "id": "marigold",
+      "category": "flowers",
+      "bn": "গাঁদা",
+      "en": "Marigold",
+      "picture": "pictures/marigold.webp"
+    },
+    {
+      "id": "sunflower",
+      "category": "flowers",
+      "bn": "সূর্যমুখী",
+      "en": "Sunflower",
+      "picture": "pictures/sunflower.webp"
+    },
+    {
+      "id": "jasmine",
+      "category": "flowers",
+      "bn": "বেলি",
+      "en": "Jasmine",
+      "picture": "pictures/jasmine.webp"
+    },
+    {
+      "id": "tuberose",
+      "category": "flowers",
+      "bn": "রজনীগন্ধা",
+      "en": "Tuberose",
+      "picture": "pictures/tuberose.webp"
+    },
+    {
+      "id": "ixora",
+      "category": "flowers",
+      "bn": "রঙ্গন",
+      "en": "Ixora",
+      "picture": "pictures/ixora.webp"
+    },
+    {
+      "id": "periwinkle",
+      "category": "flowers",
+      "bn": "নয়নতারা",
+      "en": "Periwinkle",
+      "picture": "pictures/periwinkle.webp"
+    },
+    {
+      "id": "hasnahena",
+      "category": "flowers",
+      "bn": "হাসনাহেনা",
+      "en": "Night jessamine",
+      "picture": "pictures/hasnahena.webp"
+    },
+    {
+      "id": "tulip",
+      "category": "flowers",
+      "bn": "টিউলিপ",
+      "en": "Tulip",
+      "picture": "pictures/tulip.webp"
+    },
+    {
+      "id": "bougainvillea",
+      "category": "flowers",
+      "bn": "বাগানবিলাস",
+      "en": "Bougainvillea",
+      "picture": "pictures/bougainvillea.webp"
+    },
+    {
+      "id": "dahlia",
+      "category": "flowers",
+      "bn": "ডালিয়া",
+      "en": "Dahlia",
+      "picture": "pictures/dahlia.webp"
+    },
+    {
+      "id": "chrysanthemum",
+      "category": "flowers",
+      "bn": "চন্দ্রমল্লিকা",
+      "en": "Chrysanthemum",
+      "picture": "pictures/chrysanthemum.webp"
+    },
+    {
+      "id": "zinnia",
+      "category": "flowers",
+      "bn": "জিনিয়া",
+      "en": "Zinnia",
+      "picture": "pictures/zinnia.webp"
+    },
+    {
+      "id": "cosmos",
+      "category": "flowers",
+      "bn": "কসমস",
+      "en": "Cosmos",
+      "picture": "pictures/cosmos.webp"
+    },
+    {
+      "id": "frangipani",
+      "category": "flowers",
+      "bn": "কাঠগোলাপ",
+      "en": "Frangipani",
+      "picture": "pictures/frangipani.webp"
+    },
+    {
+      "id": "butterfly_pea",
+      "category": "flowers",
+      "bn": "অপরাজিতা",
+      "en": "Butterfly pea",
+      "picture": "pictures/butterfly_pea.webp"
+    },
+    {
+      "id": "kadam",
+      "category": "flowers",
+      "bn": "কদম",
+      "en": "Kadam",
+      "picture": "pictures/kadam.webp"
+    },
+    {
+      "id": "hilsa",
+      "category": "fish",
+      "bn": "ইলিশ",
+      "en": "Hilsa",
+      "picture": "pictures/hilsa.webp"
+    },
+    {
+      "id": "rohu",
+      "category": "fish",
+      "bn": "রুই",
+      "en": "Rohu",
+      "picture": "pictures/rohu.webp"
+    },
+    {
+      "id": "catla",
+      "category": "fish",
+      "bn": "কাতলা",
+      "en": "Catla",
+      "picture": "pictures/catla.webp"
+    },
+    {
+      "id": "mrigal",
+      "category": "fish",
+      "bn": "মৃগেল",
+      "en": "Mrigal",
+      "picture": "pictures/mrigal.webp"
+    },
+    {
+      "id": "climbing_perch",
+      "category": "fish",
+      "bn": "কৈ",
+      "en": "Climbing perch",
+      "picture": "pictures/climbing_perch.webp"
+    },
+    {
+      "id": "walking_catfish",
+      "category": "fish",
+      "bn": "মাগুর",
+      "en": "Walking catfish",
+      "picture": "pictures/walking_catfish.webp"
+    },
+    {
+      "id": "stinging_catfish",
+      "category": "fish",
+      "bn": "শিং",
+      "en": "Stinging catfish",
+      "picture": "pictures/stinging_catfish.webp"
+    },
+    {
+      "id": "snakehead",
+      "category": "fish",
+      "bn": "শোল",
+      "en": "Striped snakehead",
+      "picture": "pictures/snakehead.webp"
+    },
+    {
+      "id": "shrimp",
+      "category": "fish",
+      "bn": "চিংড়ি",
+      "en": "Shrimp",
+      "picture": "pictures/shrimp.webp"
+    },
+    {
+      "id": "pabda",
+      "category": "fish",
+      "bn": "পাবদা",
+      "en": "Pabda",
+      "picture": "pictures/pabda.webp"
+    },
+    {
+      "id": "mola",
+      "category": "fish",
+      "bn": "মলা",
+      "en": "Mola",
+      "picture": "pictures/mola.webp"
+    },
+    {
+      "id": "punti",
+      "category": "fish",
+      "bn": "পুঁটি",
+      "en": "Punti",
+      "picture": "pictures/punti.webp"
+    },
+    {
+      "id": "tilapia",
+      "category": "fish",
+      "bn": "তেলাপিয়া",
+      "en": "Tilapia",
+      "picture": "pictures/tilapia.webp"
+    },
+    {
+      "id": "pangasius",
+      "category": "fish",
+      "bn": "পাঙাশ",
+      "en": "Pangas",
+      "picture": "pictures/pangasius.webp"
+    },
+    {
+      "id": "silver_carp",
+      "category": "fish",
+      "bn": "সিলভার কার্প",
+      "en": "Silver carp",
+      "picture": "pictures/silver_carp.webp"
+    },
+    {
+      "id": "grass_carp",
+      "category": "fish",
+      "bn": "গ্রাস কার্প",
+      "en": "Grass carp",
+      "picture": "pictures/grass_carp.webp"
+    },
+    {
+      "id": "common_carp",
+      "category": "fish",
+      "bn": "কার্প",
+      "en": "Carp",
+      "picture": "pictures/common_carp.webp"
+    },
+    {
+      "id": "chital",
+      "category": "fish",
+      "bn": "চিতল",
+      "en": "Chital",
+      "picture": "pictures/chital.webp"
+    },
+    {
+      "id": "boal",
+      "category": "fish",
+      "bn": "বোয়াল",
+      "en": "Boal",
+      "picture": "pictures/boal.webp"
+    },
+    {
+      "id": "pomfret",
+      "category": "fish",
+      "bn": "রূপচাঁদা",
+      "en": "Pomfret",
+      "picture": "pictures/pomfret.webp"
+    },
+    {
+      "id": "ant",
+      "category": "insects",
+      "bn": "পিঁপড়া",
+      "en": "Ant",
+      "picture": "pictures/ant.webp"
+    },
+    {
+      "id": "butterfly",
+      "category": "insects",
+      "bn": "প্রজাপতি",
+      "en": "Butterfly",
+      "picture": "pictures/butterfly.webp"
+    },
+    {
+      "id": "honeybee",
+      "category": "insects",
+      "bn": "মৌমাছি",
+      "en": "Bee",
+      "picture": "pictures/honeybee.webp"
+    },
+    {
+      "id": "mosquito",
+      "category": "insects",
+      "bn": "মশা",
+      "en": "Mosquito",
+      "picture": "pictures/mosquito.webp"
+    },
+    {
+      "id": "fly",
+      "category": "insects",
+      "bn": "মাছি",
+      "en": "Fly",
+      "picture": "pictures/fly.webp"
+    },
+    {
+      "id": "dragonfly",
+      "category": "insects",
+      "bn": "ফড়িং",
+      "en": "Dragonfly",
+      "picture": "pictures/dragonfly.webp"
+    },
+    {
+      "id": "grasshopper",
+      "category": "insects",
+      "bn": "ঘাসফড়িং",
+      "en": "Grasshopper",
+      "picture": "pictures/grasshopper.webp"
+    },
+    {
+      "id": "cockroach",
+      "category": "insects",
+      "bn": "তেলাপোকা",
+      "en": "Cockroach",
+      "picture": "pictures/cockroach.webp"
+    },
+    {
+      "id": "cricket",
+      "category": "insects",
+      "bn": "ঝিঁঝিঁ পোকা",
+      "en": "Cricket",
+      "picture": "pictures/cricket.webp"
+    },
+    {
+      "id": "firefly",
+      "category": "insects",
+      "bn": "জোনাকি",
+      "en": "Firefly",
+      "picture": "pictures/firefly.webp"
+    },
+    {
+      "id": "beetle",
+      "category": "insects",
+      "bn": "গুবরে পোকা",
+      "en": "Beetle",
+      "picture": "pictures/beetle.webp"
+    },
+    {
+      "id": "ladybird",
+      "category": "insects",
+      "bn": "লেডিবার্ড",
+      "en": "Ladybird",
+      "picture": "pictures/ladybird.webp"
+    },
+    {
+      "id": "caterpillar",
+      "category": "insects",
+      "bn": "শুঁয়োপোকা",
+      "en": "Caterpillar",
+      "picture": "pictures/caterpillar.webp"
+    },
+    {
+      "id": "moth",
+      "category": "insects",
+      "bn": "মথ",
+      "en": "Moth",
+      "picture": "pictures/moth.webp"
+    },
+    {
+      "id": "termite",
+      "category": "insects",
+      "bn": "উইপোকা",
+      "en": "Termite",
+      "picture": "pictures/termite.webp"
+    },
+    {
+      "id": "bedbug",
+      "category": "insects",
+      "bn": "ছারপোকা",
+      "en": "Bedbug",
+      "picture": "pictures/bedbug.webp"
+    },
+    {
+      "id": "louse",
+      "category": "insects",
+      "bn": "উকুন",
+      "en": "Louse",
+      "picture": "pictures/louse.webp"
+    },
+    {
+      "id": "rice_bug",
+      "category": "insects",
+      "bn": "গান্ধি পোকা",
+      "en": "Rice bug",
+      "picture": "pictures/rice_bug.webp"
+    },
+    {
+      "id": "silkworm",
+      "category": "insects",
+      "bn": "রেশমপোকা",
+      "en": "Silkworm",
+      "picture": "pictures/silkworm.webp"
+    },
+    {
+      "id": "hornet",
+      "category": "insects",
+      "bn": "ভিমরুল",
+      "en": "Hornet",
+      "picture": "pictures/hornet.webp"
+    },
+    {
+      "id": "car",
+      "category": "vehicles",
+      "bn": "গাড়ি",
+      "en": "Car",
+      "picture": "pictures/car.webp"
+    },
+    {
+      "id": "bus",
+      "category": "vehicles",
+      "bn": "বাস",
+      "en": "Bus",
+      "picture": "pictures/bus.webp"
+    },
+    {
+      "id": "truck",
+      "category": "vehicles",
+      "bn": "ট্রাক",
+      "en": "Truck",
+      "picture": "pictures/truck.webp"
+    },
+    {
+      "id": "train",
+      "category": "vehicles",
+      "bn": "ট্রেন",
+      "en": "Train",
+      "picture": "pictures/train.webp"
+    },
+    {
+      "id": "bicycle",
+      "category": "vehicles",
+      "bn": "সাইকেল",
+      "en": "Bicycle",
+      "picture": "pictures/bicycle.webp"
+    },
+    {
+      "id": "motorcycle",
+      "category": "vehicles",
+      "bn": "মোটরসাইকেল",
+      "en": "Motorcycle",
+      "picture": "pictures/motorcycle.webp"
+    },
+    {
+      "id": "rickshaw",
+      "category": "vehicles",
+      "bn": "রিকশা",
+      "en": "Rickshaw",
+      "picture": "pictures/rickshaw.webp"
+    },
+    {
+      "id": "auto_rickshaw",
+      "category": "vehicles",
+      "bn": "অটোরিকশা",
+      "en": "Auto rickshaw",
+      "picture": "pictures/auto_rickshaw.webp"
+    },
+    {
+      "id": "van",
+      "category": "vehicles",
+      "bn": "ভ্যান",
+      "en": "Van",
+      "picture": "pictures/van.webp"
+    },
+    {
+      "id": "ambulance",
+      "category": "vehicles",
+      "bn": "অ্যাম্বুলেন্স",
+      "en": "Ambulance",
+      "picture": "pictures/ambulance.webp"
+    },
+    {
+      "id": "fire_engine",
+      "category": "vehicles",
+      "bn": "দমকলের গাড়ি",
+      "en": "Fire engine",
+      "picture": "pictures/fire_engine.webp"
+    },
+    {
+      "id": "police_car",
+      "category": "vehicles",
+      "bn": "পুলিশের গাড়ি",
+      "en": "Police car",
+      "picture": "pictures/police_car.webp"
+    },
+    {
+      "id": "tractor",
+      "category": "vehicles",
+      "bn": "ট্রাক্টর",
+      "en": "Tractor",
+      "picture": "pictures/tractor.webp"
+    },
+    {
+      "id": "bulldozer",
+      "category": "vehicles",
+      "bn": "বুলডোজার",
+      "en": "Bulldozer",
+      "picture": "pictures/bulldozer.webp"
+    },
+    {
+      "id": "boat",
+      "category": "vehicles",
+      "bn": "নৌকা",
+      "en": "Boat",
+      "picture": "pictures/boat.webp"
+    },
+    {
+      "id": "launch",
+      "category": "vehicles",
+      "bn": "লঞ্চ",
+      "en": "Launch",
+      "picture": "pictures/launch.webp"
+    },
+    {
+      "id": "ship",
+      "category": "vehicles",
+      "bn": "জাহাজ",
+      "en": "Ship",
+      "picture": "pictures/ship.webp"
+    },
+    {
+      "id": "ferry",
+      "category": "vehicles",
+      "bn": "ফেরি",
+      "en": "Ferry",
+      "picture": "pictures/ferry.webp"
+    },
+    {
+      "id": "airplane",
+      "category": "vehicles",
+      "bn": "বিমান",
+      "en": "Airplane",
+      "picture": "pictures/airplane.webp"
+    },
+    {
+      "id": "helicopter",
+      "category": "vehicles",
+      "bn": "হেলিকপ্টার",
+      "en": "Helicopter",
+      "picture": "pictures/helicopter.webp"
+    },
+    {
+      "id": "color_red",
+      "category": "colors",
+      "bn": "লাল",
+      "en": "Red",
+      "picture": "pictures/color_red.webp"
+    },
+    {
+      "id": "color_blue",
+      "category": "colors",
+      "bn": "নীল",
+      "en": "Blue",
+      "picture": "pictures/color_blue.webp"
+    },
+    {
+      "id": "color_yellow",
+      "category": "colors",
+      "bn": "হলুদ",
+      "en": "Yellow",
+      "picture": "pictures/color_yellow.webp"
+    },
+    {
+      "id": "color_green",
+      "category": "colors",
+      "bn": "সবুজ",
+      "en": "Green",
+      "picture": "pictures/color_green.webp"
+    },
+    {
+      "id": "color_orange",
+      "category": "colors",
+      "bn": "কমলা",
+      "en": "Orange",
+      "picture": "pictures/color_orange.webp"
+    },
+    {
+      "id": "color_purple",
+      "category": "colors",
+      "bn": "বেগুনি",
+      "en": "Purple",
+      "picture": "pictures/color_purple.webp"
+    },
+    {
+      "id": "color_pink",
+      "category": "colors",
+      "bn": "গোলাপি",
+      "en": "Pink",
+      "picture": "pictures/color_pink.webp"
+    },
+    {
+      "id": "color_black",
+      "category": "colors",
+      "bn": "কালো",
+      "en": "Black",
+      "picture": "pictures/color_black.webp"
+    },
+    {
+      "id": "color_white",
+      "category": "colors",
+      "bn": "সাদা",
+      "en": "White",
+      "picture": "pictures/color_white.webp"
+    },
+    {
+      "id": "color_brown",
+      "category": "colors",
+      "bn": "বাদামি",
+      "en": "Brown",
+      "picture": "pictures/color_brown.webp"
+    },
+    {
+      "id": "color_gray",
+      "category": "colors",
+      "bn": "ধূসর",
+      "en": "Gray",
+      "picture": "pictures/color_gray.webp"
+    },
+    {
+      "id": "color_sky_blue",
+      "category": "colors",
+      "bn": "আকাশি",
+      "en": "Sky blue",
+      "picture": "pictures/color_sky_blue.webp"
+    },
+    {
+      "id": "color_navy_blue",
+      "category": "colors",
+      "bn": "গাঢ় নীল",
+      "en": "Navy blue",
+      "picture": "pictures/color_navy_blue.webp"
+    },
+    {
+      "id": "color_light_green",
+      "category": "colors",
+      "bn": "হালকা সবুজ",
+      "en": "Light green",
+      "picture": "pictures/color_light_green.webp"
+    },
+    {
+      "id": "color_dark_green",
+      "category": "colors",
+      "bn": "গাঢ় সবুজ",
+      "en": "Dark green",
+      "picture": "pictures/color_dark_green.webp"
+    },
+    {
+      "id": "color_maroon",
+      "category": "colors",
+      "bn": "মেরুন",
+      "en": "Maroon",
+      "picture": "pictures/color_maroon.webp"
+    },
+    {
+      "id": "color_turquoise",
+      "category": "colors",
+      "bn": "ফিরোজা",
+      "en": "Turquoise",
+      "picture": "pictures/color_turquoise.webp"
+    },
+    {
+      "id": "color_gold",
+      "category": "colors",
+      "bn": "সোনালি",
+      "en": "Gold",
+      "picture": "pictures/color_gold.webp"
+    },
+    {
+      "id": "color_silver",
+      "category": "colors",
+      "bn": "রুপালি",
+      "en": "Silver",
+      "picture": "pictures/color_silver.webp"
+    },
+    {
+      "id": "color_cream",
+      "category": "colors",
+      "bn": "ঘিয়ে",
+      "en": "Cream",
+      "picture": "pictures/color_cream.webp"
+    }
+  ]
+}

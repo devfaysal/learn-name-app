@@ -1,0 +1,8 @@
+{
+  "id": "oriole",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square realistic bird portrait for a children's Bengali-English picture dictionary. Subject: one adult black-hooded oriole (Oriolus xanthornus), the familiar yellow holde pakhi of Bangladesh. Accurate bright golden-yellow body, entirely black head and throat hood, black folded wings with yellow edging, black and yellow tail, slender pointed pinkish coral bill, natural small reddish-brown eye with a tiny catchlight, gray legs and anatomically correct toes. A convincing real living bird with detailed layered feathers and natural proportions, not a toy, cartoon or stylized painting. Full bird in a relaxed three-quarter side view, head facing left and turned slightly toward the viewer, clear face and bill, standing with both feet visible on a warm ivory seamless surface with a subtle contact shadow. Entire tail, feet and bill fully inside the square with comfortable 10 percent margins. Soft diffuse daylight, fine detail through the whole bird, gentle realistic shadows and restrained saturation. Match an elegant natural-history picture card with plain warm ivory background. No scenery, leaves, branch, extra birds, props, text, labels, border or watermark. Not an American hooded oriole, no orange body, no yellow head.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-e9d5e355-9cd2-4adc-99db-c2b3c148ee33.png",
+  "project_path": "artifacts/illustrations/oriole.png",
+  "identification_reference": "https://sufal.bforest.gov.bd/redlist/wp-content/uploads/2023/03/Volume-3-Birds-Full-Book.pdf"
+}

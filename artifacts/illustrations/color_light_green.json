@@ -1,0 +1,12 @@
+{
+  "id": "color_light_green",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "হালকা সবুজ",
+  "en": "Light green",
+  "color": "#9CDD67",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

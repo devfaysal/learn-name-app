@@ -1,0 +1,21 @@
+{
+  "id": "color_gold",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "সোনালি",
+  "en": "Gold",
+  "color": "#D4A72C",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "metallic",
+  "gradient_stops": [
+    "#8C651E",
+    "#D4A72C",
+    "#F5D76C",
+    "#FFF6CA",
+    "#C39727",
+    "#E8C45B",
+    "#A77A20"
+  ]
+}

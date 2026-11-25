@@ -1,0 +1,13 @@
+{
+  "base": "Use case: stylized-concept. Create ONE square premium semi-realistic natural-history illustration for a children's bilingual picture dictionary. Match the approved almost-real Bengal tiger illustration style: convincing natural proportions, exquisitely detailed realistic textures, softly refined painted edges, dimensional shading, warm accurate colors, soft diffuse daylight, clean warm ivory background (#fffaf0) and subtle contact shadow. Near-photographic realism with gentle polished illustration qualities, beautiful and approachable, not a cartoon or toy. Center the complete subject within 80% of the square canvas with comfortable margins; no part cropped. Clear silhouette and readable at mobile thumbnail size. No text, labels, watermark, border, decorative shapes, scenery, human faces, accessories, collage, plastic materials, thick outlines, oversize eyes or exaggerated proportions. Render the requested subject only. ",
+  "category_notes": {
+    "animals": "Full body with correct natural anatomy, every paw and the complete tail visible. Calm pose, mouth closed. ",
+    "birds": "Full bird including beak, both feet and entire tail. Natural proportions, detailed feathers, standing in three-quarter side view unless pose specified. No extra props except the small wood segment if specified. ",
+    "flowers": "Botanically convincing flower portrait, enough foliage to identify it but uncluttered. Complete blossoms and short supporting stem visible. ",
+    "fruits": "Elegant still life of just the named fruit and specified cut pieces; realistic natural peel and flesh textures. ",
+    "fish": "Exactly one fish in clear left-facing lateral profile, horizontal and fully visible from snout through complete tail, anatomically correct distinct fins and any specified barbels. Clean ivory backdrop with very faint shadow; no water, hooks, labels, plates or injuries. Species-specific anatomy matters. ",
+    "vegetables": "Elegant still life of just the specified vegetable and its described parts. Realistic fresh textures, no container or extra produce. ",
+    "insects": "Full-body macro insect portrait, precise natural anatomy, adult insects with exactly six legs attached to thorax and one pair of antennae; no invented limbs. Larvae have their correct natural caterpillar anatomy as described. Every antenna tip, leg, wing and tail visible with ample margins. Warm ivory backdrop and faint soft grounding shadow; no plants except explicitly requested. ",
+    "crops": "Realistic macro crop photography, dry grains/pulses/seeds on warm ivory. Preserve species-specific shapes, natural colors and texture; include grain heads only where specified to distinguish similar cereals. No containers, text or decorative props."
+  }
+}

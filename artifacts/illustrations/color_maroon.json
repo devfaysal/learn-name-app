@@ -1,0 +1,12 @@
+{
+  "id": "color_maroon",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "মেরুন",
+  "en": "Maroon",
+  "color": "#800020",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

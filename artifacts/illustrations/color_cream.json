@@ -1,0 +1,12 @@
+{
+  "id": "color_cream",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "ঘিয়ে",
+  "en": "Cream",
+  "color": "#FFF1BC",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

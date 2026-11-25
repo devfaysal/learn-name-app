@@ -1,0 +1,12 @@
+{
+  "id": "color_white",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "সাদা",
+  "en": "White",
+  "color": "#FFFFFF",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

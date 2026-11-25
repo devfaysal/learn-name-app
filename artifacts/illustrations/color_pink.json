@@ -1,0 +1,12 @@
+{
+  "id": "color_pink",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "গোলাপি",
+  "en": "Pink",
+  "color": "#F48CB4",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

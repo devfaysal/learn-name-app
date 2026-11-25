@@ -1,0 +1,8 @@
+{
+  "id": "dog",
+  "prompt": "Use case: precise-object-edit. Improve this tricolor beagle image for a mobile animal picture dictionary. Make the entire dog substantially more lifelike, especially its face: authentic adult beagle proportions, smaller naturally sized deep brown eyes with subtle catchlights, natural eyelids, realistic brow and cheeks, textured moist black nose, anatomically correct muzzle and fine whiskers, natural slightly asymmetric fur and markings. Avoid oversized glossy pleading eyes, puppy-like toy proportions, smooth plastic rendering or a painted cartoon face. Preserve a black saddle, tan head and floppy ears, white muzzle blaze, chest and legs. Full-body calm standing pose with all four paws visible, head on the LEFT and facing the viewer so BOTH eyes are clearly visible. IMPORTANT: LOWER THE TAIL to a relaxed natural downward curve at the right, with its complete white tip visible below the back level. No raised tail in the upper-right. Keep the entire upper-right 32 percent by 32 percent of the square EMPTY ivory for a favorite button; no animal part in this area. Realistic short fur, soft natural daylight, accurate muted colors, believable shadows. Preserve clean warm ivory backdrop (#fffaf0), subtle floor contact shadow, square image with full animal and ample margins. No text, collar, leash, scenery, props, border or watermark.",
+  "tool": "built-in image_gen",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-c944b5ca-26cf-42d0-9c0a-f1409f338aac.png",
+  "project_path": "artifacts/illustrations/dog.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-b569b86d-549a-4fb0-a273-488f86995b83.png"
+}

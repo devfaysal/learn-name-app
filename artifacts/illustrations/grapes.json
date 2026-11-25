@@ -1,0 +1,7 @@
+{
+  "id": "grapes",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE square premium semi-realistic natural-history illustration for a children's bilingual picture dictionary. Match the approved almost-real Bengal tiger illustration style: convincing natural proportions, exquisitely detailed realistic textures, softly refined painted edges, dimensional shading, warm accurate colors, soft diffuse daylight, clean warm ivory background (#fffaf0) and subtle contact shadow. Near-photographic realism with gentle polished illustration qualities, beautiful and approachable, not a cartoon or toy. Center the complete subject within 80% of the square canvas with comfortable margins; no part cropped. Clear silhouette and readable at mobile thumbnail size. No text, labels, watermark, border, decorative shapes, scenery, human faces, accessories, collage, plastic materials, thick outlines, oversize eyes or exaggerated proportions. Render the requested subject only. Elegant still life of just the named fruit and specified cut pieces; realistic natural peel and flesh textures. Subject: One natural bunch of ripe purple grapes on a slender brown-green stem, individual translucent bloom-dusted grapes.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-9f07df9c-68bb-44d8-8654-7a1dcb959e7c.png",
+  "project_path": "artifacts/illustrations/grapes.png"
+}

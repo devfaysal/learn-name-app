@@ -1,0 +1,8 @@
+{
+  "id": "guava",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Replace the pink-fleshed guava in the reference with a real WHITE-FLESHED GREEN GUAVA familiar in Bangladesh. One whole fresh green guava behind one cut half, natural slightly irregular round shape. Skin must be natural medium/light green, fine uneven pores, small realistic blemishes, no bright yellow skin. Interior is crisp WHITE to creamy ivory flesh with a central area of many small pale beige seeds; absolutely NO pink or red flesh. Make it look like professional natural food photography, not a polished 3D model: realistic matte-to-satin rind, subtle moisture only on cut flesh, irregular fine grain and seed placement. Preserve square composition, complete fruits, clean warm ivory background, soft daylight and contact shadows. Remove the oversized decorative leaf and thick twig; a tiny natural stem nub is enough. Subject fits within 80 percent of canvas with margins. No text, props, extra produce, border or watermark.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-5ebdaac9-89b6-4722-b554-cae2d391ce52.png",
+  "project_path": "artifacts/illustrations/guava.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-dff3fcde-119c-459e-a792-2dcfeb94f523.png"
+}

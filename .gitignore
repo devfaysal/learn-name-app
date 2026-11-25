@@ -1,0 +1,35 @@
+# Local Android/IDE state and build outputs
+/.gradle/
+/local.properties
+**/build/
+/.idea/
+*.iml
+*.apk
+*.aab
+
+# Python and downloaded development caches
+__pycache__/
+*.py[cod]
+/.venv/
+/scripts/.cache_photos/
+
+# Generated previews, logs, auditions and retired artwork stay local.
+# Keep the active artwork masters and provenance needed to rebuild assets.
+/artifacts/*
+!/artifacts/illustrations/
+!/artifacts/references/
+
+# Local agent configuration, credentials and signing material
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+/keystore.properties
+
+# OS metadata
+.DS_Store
+Thumbs.db

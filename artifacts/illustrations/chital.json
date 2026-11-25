@@ -1,0 +1,12 @@
+{
+  "id": "chital",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square realistic fish portrait for a children's Bengali-English picture dictionary. Subject: one authentic Bangladeshi chital fish, Chitala chitala (humped featherback), in complete left-facing side profile. Accurate elongated strongly laterally compressed knife-shaped body, pronounced smoothly humped back rising behind the small head, silvery flanks with subtle coppery olive-gray back, fine tiny scales, natural small eye and slightly upturned mouth. Short small flaglike dorsal fin midway along the back. Very long delicate ribbonlike anal fin running under almost the whole body and merging continuously with the small rounded tail tip; body tapers gradually toward tail, no forked tail. Small pectoral fin behind gill cover. Subtle pale silver-gold short transverse bars along upper back; a few small plain dark spots near rear lower flank, WITHOUT pale rings or eye-like markings. Species accuracy: this is Chitala chitala, NOT Chitala ornata with large white-ringed bullseye spots and NOT the smaller low-backed bronze featherback. Natural proportions and realistic fine fin rays, restrained natural color and sheen, no plastic appearance or caricature. Clean warm ivory seamless backdrop with subtle soft shadow beneath fish, softly diffused light, full head, dorsal fin, lower fin and complete tail within frame with 10 percent side margins. Fish centered horizontally, large and clearly recognizable at mobile thumbnail size. No water scenery, tank, hooks, hands, blood, extra fish, labels, text, border or watermark.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-248c760e-321d-4ad7-8c1d-99735b752227.png",
+  "project_path": "artifacts/illustrations/chital.png",
+  "identification_references": [
+    "https://portals.iucn.org/library/sites/library/files/documents/RL-549.3-003-v.1.pdf",
+    "https://www.fishbase.se/country/CountrySpeciesSummary.php?c_code=050&id=2078",
+    "https://en.bdfish.org/2010/07/humped-featherback-chitala-chitala-hamilton-1822/"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "purpose": "Crop names and botanical appearance checks; reference photographs are not bundled app assets.",
+  "sources": [
+    "https://www.bamis.gov.bd/bn/crops/category/6/",
+    "https://www.barcapps.gov.bd/pgrfa/reports/bangladesh.pdf",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501990-1",
+    "https://commons.wikimedia.org/wiki/File:Lathyrus_sativus_seeds.JPG",
+    "https://www.bamis.gov.bd/crops/view/59"
+  ],
+  "accepted_replacements": {
+    "oats": "কালোজিরা — Nigella seeds",
+    "pearl_millet": "ধনে — Coriander seeds"
+  }
+}

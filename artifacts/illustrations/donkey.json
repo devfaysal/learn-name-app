@@ -1,0 +1,8 @@
+{
+  "id": "donkey",
+  "prompt": "Use case: precise-object-edit. Edit this donkey illustration: horizontally reverse the pose so the donkey's HEAD AND BOTH LONG EARS ARE ON THE LEFT side of the square and the body extends toward the right, with tail on the right. Keep the upper-right 30% by 30% of the canvas completely empty ivory to allow a favorite button without overlap. Preserve the same gray donkey identity, realistic anatomy, detailed coat, pale muzzle and underside, short dark mane, all four hooves, full tail, relaxed closed mouth, natural expression and almost-real illustration style. Keep the clean warm ivory background, subtle contact shadow and soft daylight. Full-body standing three-quarter view facing left with face slightly toward viewer. Keep complete ears, hooves and tail inside the square with comfortable margins. No extra objects, text, accessories, watermark or cartoon exaggeration.",
+  "tool": "built-in image_gen",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-39364430-7864-48e1-9d66-86a5457a3826.png",
+  "project_path": "artifacts/illustrations/donkey.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-21197cd3-db89-4205-832e-6bed24a373ce.png"
+}

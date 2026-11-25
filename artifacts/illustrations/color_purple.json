@@ -1,0 +1,12 @@
+{
+  "id": "color_purple",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "বেগুনি",
+  "en": "Purple",
+  "color": "#883DC0",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

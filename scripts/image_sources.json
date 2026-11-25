@@ -1,0 +1,1412 @@
+{
+  "tiger": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tiger.png",
+    "sha256": "37cd561ec1a6ff7987d24d8b0b38d52d1645e8b9ecfd58de91b55d92c48c6338",
+    "prompt_file": "artifacts/illustrations/tiger.json"
+  },
+  "elephant": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/elephant.png",
+    "sha256": "8044ad6a7ceb11aa5a8a624c47851deb2576b457df3aae77e6edd8b6b975d1e8",
+    "prompt_file": "artifacts/illustrations/elephant.json"
+  },
+  "deer": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/deer.png",
+    "sha256": "c956d7abc4cc0b7566d606508a4ab453ded76b46e11648cf64ae72ed2bca66d9",
+    "prompt_file": "artifacts/illustrations/deer.json"
+  },
+  "monkey": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/monkey.png",
+    "sha256": "948b0fb9acd83f32d92b1cb1e345dca843016a5d39e5d95668f83c208974ca26",
+    "prompt_file": "artifacts/illustrations/monkey.json"
+  },
+  "cow": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cow.png",
+    "sha256": "b5afafd3d73559af31ca453c841c3c888e830dc3358554d138e2f51d5cefb1fa",
+    "prompt_file": "artifacts/illustrations/cow.json"
+  },
+  "goat": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/goat.png",
+    "sha256": "fadfa9fe12e4d55b3b8953f1b448281512b3ead192c9012718815c13288d0548",
+    "prompt_file": "artifacts/illustrations/goat.json"
+  },
+  "sheep": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/sheep.png",
+    "sha256": "3314396f63a5717a411abb473834e8354acbf7f0d67662277a7be8072e9dd959",
+    "prompt_file": "artifacts/illustrations/sheep.json"
+  },
+  "buffalo": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/buffalo.png",
+    "sha256": "96d2dd6a78690a6e0f24d5b21d2445ba02112563d02bb9d3b19cf18e1583aaf5",
+    "prompt_file": "artifacts/illustrations/buffalo.json"
+  },
+  "horse": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/horse.png",
+    "sha256": "4e4a59e19853ea88c53863dfbfe3a622d834850d7636168515ae6551f15bdac1",
+    "prompt_file": "artifacts/illustrations/horse.json"
+  },
+  "cat": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cat.png",
+    "sha256": "7120f85d24be619cfc91d5a6ddb9cb7bb9151c5c482995c28ed09e52e52f3680",
+    "prompt_file": "artifacts/illustrations/cat.json"
+  },
+  "dog": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/dog.png",
+    "sha256": "34804d3d517a5986b00947362208fc4bdd29f88f5fc3fdf9c58180f5791980dc",
+    "prompt_file": "artifacts/illustrations/dog.json"
+  },
+  "lion": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/lion.png",
+    "sha256": "a1a7b3d68903d768e64eecea9a6f5d1ccb8a1221cff5fbb8907ba566d675307d",
+    "prompt_file": "artifacts/illustrations/lion.json"
+  },
+  "rabbit": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/rabbit.png",
+    "sha256": "900cdd0b6a7bee73aa318e7e50a1c8f6207d47b0ea01dfe55e6f093040220c4c",
+    "prompt_file": "artifacts/illustrations/rabbit.json"
+  },
+  "squirrel": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/squirrel.png",
+    "sha256": "11863cc042b7054faae8daa5848ff11f955985a158ab4aa453a64ee8894a72f2",
+    "prompt_file": "artifacts/illustrations/squirrel.json"
+  },
+  "mongoose": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mongoose.png",
+    "sha256": "29a6e978f2cfd5c9b9ff6c096daf7cf3a98b8734efa10f84d158b3e7c5d7ddd6",
+    "prompt_file": "artifacts/illustrations/mongoose.json"
+  },
+  "otter": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/otter.png",
+    "sha256": "18ec0e04d8246b201f5c3cea6689e776e812272333cc1ea05b49ff3454d4e940",
+    "prompt_file": "artifacts/illustrations/otter.json"
+  },
+  "jackal": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/jackal.png",
+    "sha256": "947eecc94face655878fafdfdcde0dca15c30769afe5d5a0f23df375173a1616",
+    "prompt_file": "artifacts/illustrations/jackal.json"
+  },
+  "donkey": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/donkey.png",
+    "sha256": "3111ddc96c3e666802e6966cde6f583b9bb8d81946acbc41a69be93cacdbbee9",
+    "prompt_file": "artifacts/illustrations/donkey.json"
+  },
+  "porcupine": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/porcupine.png",
+    "sha256": "0c415ca8cca8b053e756a73851c1e664ad3f523d78b2c770b67c9ca5f25bf893",
+    "prompt_file": "artifacts/illustrations/porcupine.json"
+  },
+  "giraffe": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/giraffe.png",
+    "sha256": "5636544212b3d01dcf9f7c4cc6b74dfc189c49a00af1ed4a2ed6b3ad8a12f18e",
+    "prompt_file": "artifacts/illustrations/giraffe.json"
+  },
+  "magpie_robin": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/magpie_robin.png",
+    "sha256": "3e46a8cd511b5cc86746d7bab52990bea0e2d42c7c879a668c956fff6027df55",
+    "prompt_file": "artifacts/illustrations/magpie_robin.json"
+  },
+  "parakeet": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/parakeet.png",
+    "sha256": "cf65aa97ff0fe1706d848382d9e99ad386dd69732f729ba04708649d145e8506",
+    "prompt_file": "artifacts/illustrations/parakeet.json"
+  },
+  "myna": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/myna.png",
+    "sha256": "702e0b1741d1b2fb9e99bc21dfcb2fc0eb4af763a3c757cd9e05deb48793f247",
+    "prompt_file": "artifacts/illustrations/myna.json"
+  },
+  "sparrow": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/sparrow.png",
+    "sha256": "b6468299bde128c52a7c603e29cf7f1f3239fcee2274c678f0249cb330dc389b",
+    "prompt_file": "artifacts/illustrations/sparrow.json"
+  },
+  "crow": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/crow.png",
+    "sha256": "f59f4638196609b22fd0a73a4ebc698edfad50e9249eb7ebb1c78c1275a19052",
+    "prompt_file": "artifacts/illustrations/crow.json"
+  },
+  "pigeon": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pigeon.png",
+    "sha256": "af53b81005b6ae2645ee91708bf8fb0f720ace0e5522666d4c1322d56f3ed78e",
+    "prompt_file": "artifacts/illustrations/pigeon.json"
+  },
+  "kingfisher": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/kingfisher.png",
+    "sha256": "afcf5c07c0ef38cbe18dc2b9c0f2e8f79751b416b33b4e5c733e811492635e68",
+    "prompt_file": "artifacts/illustrations/kingfisher.json"
+  },
+  "bulbul": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bulbul.png",
+    "sha256": "1c720043dfc2f8dd6a8288466f226fff3dabd4c99f82c7cdcf5f6d03cde117b7",
+    "prompt_file": "artifacts/illustrations/bulbul.json"
+  },
+  "koel": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/koel.png",
+    "sha256": "1c85a922b8938e81a57da77f03d95c95926c12e9d4ac6fcbf59f646a06c5ce7d",
+    "prompt_file": "artifacts/illustrations/koel.json"
+  },
+  "egret": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/egret.png",
+    "sha256": "fc886e5144c108fba1fcacc1880b80e804244a443f32b2ff582e45e2c22c6469",
+    "prompt_file": "artifacts/illustrations/egret.json"
+  },
+  "duck": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/duck.png",
+    "sha256": "5a5ad79074ff0f2a39b6a33472ab283bf042d762c38392b5296db1ed806beea4",
+    "prompt_file": "artifacts/illustrations/duck.json"
+  },
+  "chicken": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/chicken.png",
+    "sha256": "5c164c7edaae4357f53cc4a519c322819994ab0af6f0174ad4fe9ac4c62e3c99",
+    "prompt_file": "artifacts/illustrations/chicken.json"
+  },
+  "peacock": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/peacock.png",
+    "sha256": "11ac69be7dab5b6e8e3379f7fb93020724b5a1724d3578d5aede87961a07924d",
+    "prompt_file": "artifacts/illustrations/peacock.json"
+  },
+  "woodpecker": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/woodpecker.png",
+    "sha256": "d0474e998c24518f3c843c7a3bf2f649e55801662928a041e65da1852ee5701e",
+    "prompt_file": "artifacts/illustrations/woodpecker.json"
+  },
+  "owl": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/owl.png",
+    "sha256": "c7900719a684762485bc1f04062d32668f7f87fe24adc06834187862a4b3ad3d",
+    "prompt_file": "artifacts/illustrations/owl.json"
+  },
+  "kite": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/kite.png",
+    "sha256": "e35d91ef7db6681f3d427ba6ef4e352a57fd3a88edc02a0951e3d3aee317b89b",
+    "prompt_file": "artifacts/illustrations/kite.json"
+  },
+  "vulture": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/vulture.png",
+    "sha256": "3e3353739ac8406661b6a28ffd40828dfe2a7c9117c3af7a4e0087ca7358d73c",
+    "prompt_file": "artifacts/illustrations/vulture.json"
+  },
+  "dove": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/dove.png",
+    "sha256": "39cc210d73a5000eb0f112347d17a0d9eb12a8352366bd5b2c66abe3d5247d2d",
+    "prompt_file": "artifacts/illustrations/dove.json"
+  },
+  "tailorbird": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tailorbird.png",
+    "sha256": "1c6e8a6c123892097af0276acf2d662ceaf5eb237c90d418aa0bec4ae4d19c3a",
+    "prompt_file": "artifacts/illustrations/tailorbird.json"
+  },
+  "oriole": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/oriole.png",
+    "sha256": "5f744767d72cfc5ffd79c7bad5898300c209664f913a9483d18c6856b2bb974b",
+    "prompt_file": "artifacts/illustrations/oriole.json"
+  },
+  "water_lily": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/water_lily.png",
+    "sha256": "ae7d0b17823a0e2e2142115ff81c85a78216c4d7fa50b846339ae5ec664debe8",
+    "prompt_file": "artifacts/illustrations/water_lily.json"
+  },
+  "lotus": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/lotus.png",
+    "sha256": "328d356b8ecfe0dd310517b33810b36e1e5c80f9421bae0ac285ec1abbeddbd7",
+    "prompt_file": "artifacts/illustrations/lotus.json"
+  },
+  "rose": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/rose.png",
+    "sha256": "1a9d44ac3239231a071b9805a038f705cd46b919d0c1fb079587836dce8e3cde",
+    "prompt_file": "artifacts/illustrations/rose.json"
+  },
+  "hibiscus": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/hibiscus.png",
+    "sha256": "3d49316b56b5d4c48ee00f88aa2a1dc3347b706e559fe600d2a12b797bbb0842",
+    "prompt_file": "artifacts/illustrations/hibiscus.json"
+  },
+  "marigold": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/marigold.png",
+    "sha256": "42a638042d02f7febd5206fcadf07a909d6c48cacb36aa2e6b4b20c85b7cf93c",
+    "prompt_file": "artifacts/illustrations/marigold.json"
+  },
+  "sunflower": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/sunflower.png",
+    "sha256": "eb00a28cb4dbb69e530a1dfa1c49e9c2b699db9bebdf6f5697e6366f20c7afed",
+    "prompt_file": "artifacts/illustrations/sunflower.json"
+  },
+  "jasmine": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/jasmine.png",
+    "sha256": "e0706a0ea8375b231de77ea06ad5d490b240b5604d460b234493cfdd0238fda8",
+    "prompt_file": "artifacts/illustrations/jasmine.json"
+  },
+  "tuberose": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tuberose.png",
+    "sha256": "b95b2ded77408aca6f1928264985e994633e62051893ba7e8135bfb36786e248",
+    "prompt_file": "artifacts/illustrations/tuberose.json"
+  },
+  "ixora": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ixora.png",
+    "sha256": "076337cbacd9e9c5745ea1d9467d5ceae975624f38ac9c548d8e8f67e1dff585",
+    "prompt_file": "artifacts/illustrations/ixora.json"
+  },
+  "periwinkle": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/periwinkle.png",
+    "sha256": "c6a1eea5825dbeb357151be9c1e5c1d42e54c6024f1fb1f21a484e802c1729ff",
+    "prompt_file": "artifacts/illustrations/periwinkle.json"
+  },
+  "hasnahena": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/hasnahena.png",
+    "sha256": "697dd0645076451372115c3f9048c6df6c2572abbc3c8d016805de5ecd2834ea",
+    "prompt_file": "artifacts/illustrations/hasnahena.json"
+  },
+  "tulip": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tulip.png",
+    "sha256": "8fd91c234a832177e7be0206979b9d20e0cf30b1a95949a3001e9fd5876ea1fd",
+    "prompt_file": "artifacts/illustrations/tulip.json"
+  },
+  "bougainvillea": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bougainvillea.png",
+    "sha256": "9a27539b0429ed72e6f2bf7bab8d3dcb134f93944926605204b4718355cd31b5",
+    "prompt_file": "artifacts/illustrations/bougainvillea.json"
+  },
+  "dahlia": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/dahlia.png",
+    "sha256": "03b45a22003544a6e6be99d0813c782d20c9f8532c8f4bd584a6cc9b8c4cd44b",
+    "prompt_file": "artifacts/illustrations/dahlia.json"
+  },
+  "chrysanthemum": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/chrysanthemum.png",
+    "sha256": "d2cbef7588ca881b37d50c1d271359de722f7ae72ca74c72a25096c41f94d3e2",
+    "prompt_file": "artifacts/illustrations/chrysanthemum.json"
+  },
+  "zinnia": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/zinnia.png",
+    "sha256": "b97ad66e4e5e1e64eaeb02eaa2b550173a4d582df5e8476edde45c1eec9fb4a2",
+    "prompt_file": "artifacts/illustrations/zinnia.json"
+  },
+  "cosmos": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cosmos.png",
+    "sha256": "03681df8c7bed103a360e5bcc8d946881818ae415a285eccac0010c18dcebb12",
+    "prompt_file": "artifacts/illustrations/cosmos.json"
+  },
+  "frangipani": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/frangipani.png",
+    "sha256": "f0d563af855e9c314736da3080a7430cab54cbcec14b4765f8f60d43ff4dd211",
+    "prompt_file": "artifacts/illustrations/frangipani.json"
+  },
+  "butterfly_pea": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/butterfly_pea.png",
+    "sha256": "184478f74dc574be9985714a9189fb6293303aeb52a62e93a988f4d6a64c1f31",
+    "prompt_file": "artifacts/illustrations/butterfly_pea.json"
+  },
+  "kadam": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/kadam.png",
+    "sha256": "5c3440bf3c9a695ddbd632e89a925f69e9f53c1b1d96422786304f91852af316",
+    "prompt_file": "artifacts/illustrations/kadam.json"
+  },
+  "mango": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mango.png",
+    "sha256": "4f660237c02b9478535e733fabd50984c38f743a2841e809e76e28536e0ac98e",
+    "prompt_file": "artifacts/illustrations/mango.json"
+  },
+  "jackfruit": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/jackfruit.png",
+    "sha256": "bfd490a72b17a0dd88d00611a1122e631f430810322490e40c2ae44e1586905c",
+    "prompt_file": "artifacts/illustrations/jackfruit.json"
+  },
+  "banana": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/banana.png",
+    "sha256": "6266a3e2bed65ae16fe6be16c9e6e81e4185c718fc993ac64fdd7d4095af857d",
+    "prompt_file": "artifacts/illustrations/banana.json"
+  },
+  "lychee": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/lychee.png",
+    "sha256": "4858f6f416f1fd5dd449d12ffad62de8a64ca74145c0b778b8ffac370ad0e933",
+    "prompt_file": "artifacts/illustrations/lychee.json"
+  },
+  "guava": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/guava.png",
+    "sha256": "e6c726d48b094a8dea10ed10a574761adb2a3f028dbbb240234b5cbcc4d0412e",
+    "prompt_file": "artifacts/illustrations/guava.json"
+  },
+  "papaya": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/papaya.png",
+    "sha256": "9d7b355d564180adb69b60a6b179a08c5fd0b1519d7fcb6742e9683c14987b6b",
+    "prompt_file": "artifacts/illustrations/papaya.json"
+  },
+  "pineapple": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pineapple.png",
+    "sha256": "4db0f236673e71b8c3fcd51026a5e7fe1e1b909c7887ae7fac8b7f5a405d2c56",
+    "prompt_file": "artifacts/illustrations/pineapple.json"
+  },
+  "watermelon": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/watermelon.png",
+    "sha256": "55d0f8a5fd6cf06722ee56dba16bf1652bd9ab20694791c75995cb35d6a37dec",
+    "prompt_file": "artifacts/illustrations/watermelon.json"
+  },
+  "coconut": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/coconut.png",
+    "sha256": "3682b5fa0556bfd88506e0d3184a3027893f5f839e8d941c26962403e01abf5f",
+    "prompt_file": "artifacts/illustrations/coconut.json"
+  },
+  "jujube": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/jujube.png",
+    "sha256": "5797823f83d30b1e08874ba500b7e532654bbd3302ba57ec0703befcc0c20794",
+    "prompt_file": "artifacts/illustrations/jujube.json"
+  },
+  "starfruit": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/starfruit.png",
+    "sha256": "a35f53d5e82c7e420316bf649e7a82afa19af8d21dbf0dc9febc0252b4845da2",
+    "prompt_file": "artifacts/illustrations/starfruit.json"
+  },
+  "wood_apple": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/wood_apple.png",
+    "sha256": "0af8f76738827d388748634b763e205d871a72dd25a1671a47a0d156bc5690f7",
+    "prompt_file": "artifacts/illustrations/wood_apple.json"
+  },
+  "apple": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/apple.png",
+    "sha256": "b1cb0936faf19da5eb9047eaf42fe89802534b113c0b177bee1270bda2a17593",
+    "prompt_file": "artifacts/illustrations/apple.json"
+  },
+  "orange": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/orange.png",
+    "sha256": "4fe9fe513af6c710beffbee0b4b54a48caa5144ed1b79270409dc0df5094fe3d",
+    "prompt_file": "artifacts/illustrations/orange.json"
+  },
+  "lemon": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/lemon.png",
+    "sha256": "6c5c9326f80eeb5bb632322a9779795474fe8b74cb7c9f76049af01821fb1695",
+    "prompt_file": "artifacts/illustrations/lemon.json"
+  },
+  "pomegranate": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pomegranate.png",
+    "sha256": "b7a31329f39dbe4a4fac14c14cab5ed1d32730deeaf349af903c086d46e09969",
+    "prompt_file": "artifacts/illustrations/pomegranate.json"
+  },
+  "grapes": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/grapes.png",
+    "sha256": "778b17022e8bdb4fe7fb8e98d238907a055c76ed04d74490fa0ef9853739d41a",
+    "prompt_file": "artifacts/illustrations/grapes.json"
+  },
+  "tamarind": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tamarind.png",
+    "sha256": "8beacb9b2053ad2409ec042d8b42935f3cfedf5d99e40442675876ccb014ea2b",
+    "prompt_file": "artifacts/illustrations/tamarind.json"
+  },
+  "custard_apple": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/custard_apple.png",
+    "sha256": "b414426ae9044cbe93684eccd18f823d318be16ad16b0c4c639e191cb6584868",
+    "prompt_file": "artifacts/illustrations/custard_apple.json"
+  },
+  "wax_apple": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/wax_apple.png",
+    "sha256": "2255a38d87e82a0c6bb6fc9f510f1493f433082a60a7af4d9907b6619aaee48d",
+    "prompt_file": "artifacts/illustrations/wax_apple.json"
+  },
+  "hilsa": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/hilsa.png",
+    "sha256": "3a0c6da71c2adc534479cc86805a864288622a05bf2d692653f851748e4872a3",
+    "prompt_file": "artifacts/illustrations/hilsa.json"
+  },
+  "rohu": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/rohu.png",
+    "sha256": "4d16dd86c1a87d698bcf4a90e290cc1c7826cae8637d43d29e29ea3d92967c0c",
+    "prompt_file": "artifacts/illustrations/rohu.json"
+  },
+  "catla": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/catla.png",
+    "sha256": "0fc249769a5375868062b045866eb7fb8ab46de76bf57a18d24cfbe9fa0c26e0",
+    "prompt_file": "artifacts/illustrations/catla.json"
+  },
+  "mrigal": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mrigal.png",
+    "sha256": "088df81eecaa6cc60709e78d1a43343ef5efedb3bb0efc99ec5d659e017ef6ca",
+    "prompt_file": "artifacts/illustrations/mrigal.json"
+  },
+  "climbing_perch": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/climbing_perch.png",
+    "sha256": "a7d37bc5f8d960855b41906a94fee7f524acc84ebfc02b29cd80a2f55bee3350",
+    "prompt_file": "artifacts/illustrations/climbing_perch.json"
+  },
+  "walking_catfish": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/walking_catfish.png",
+    "sha256": "5dd94facb3e43bc0d8fcbccf1ed1fb8562e3bc1a845593520bf23c407ea31ba8",
+    "prompt_file": "artifacts/illustrations/walking_catfish.json"
+  },
+  "stinging_catfish": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/stinging_catfish.png",
+    "sha256": "9c498f89ea2a2775bf20034f6e6f4140405f3ee021fff9d1633047fdf943c475",
+    "prompt_file": "artifacts/illustrations/stinging_catfish.json"
+  },
+  "snakehead": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/snakehead.png",
+    "sha256": "d4af43552dfef4328265774df91dcd093959fe4b5e340010e5175d7e6e789fde",
+    "prompt_file": "artifacts/illustrations/snakehead.json"
+  },
+  "shrimp": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/shrimp.png",
+    "sha256": "83cc3a9f0057c278369a620d3d8b2d0d1df701c8bd73dd5c0503f8226ea04b55",
+    "prompt_file": "artifacts/illustrations/shrimp.json"
+  },
+  "pabda": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pabda.png",
+    "sha256": "bf84cb896a9523a832fab1aa5b7d26d2dfb7fb033e1dcaa7cd673df2fcbdbbc0",
+    "prompt_file": "artifacts/illustrations/pabda.json"
+  },
+  "mola": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mola.png",
+    "sha256": "a01bcdc8c175a4284d15e9b75e5f5a32566f70ec402b69721aaec01c68b45657",
+    "prompt_file": "artifacts/illustrations/mola.json"
+  },
+  "punti": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/punti.png",
+    "sha256": "d7512be14b5790a84f3bc861ccadfe5e919957cc6641a596cd33943603e86690",
+    "prompt_file": "artifacts/illustrations/punti.json"
+  },
+  "tilapia": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tilapia.png",
+    "sha256": "34bca2cce323b40542df42898eb78909ec1fa6db3bfd6a4bea258480e4d7a6fc",
+    "prompt_file": "artifacts/illustrations/tilapia.json"
+  },
+  "pangasius": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pangasius.png",
+    "sha256": "2ba6121ae7d6c4c4ed0e02f8ed0b69b5a802ba5cf9a09bd7cd59d51a307b2fa2",
+    "prompt_file": "artifacts/illustrations/pangasius.json"
+  },
+  "silver_carp": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/silver_carp.png",
+    "sha256": "3dc11d5adaa52516a33a15d1583d4c1905888b513e163e1196fcfb66e3b78ccc",
+    "prompt_file": "artifacts/illustrations/silver_carp.json"
+  },
+  "grass_carp": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/grass_carp.png",
+    "sha256": "d2a0449e34cb76f7c8cc6638185faa5448d9e3f3ef0817f9f2971782d5eefb13",
+    "prompt_file": "artifacts/illustrations/grass_carp.json"
+  },
+  "common_carp": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/common_carp.png",
+    "sha256": "b45ccb87d890a4e1a7a749b05552fd4b76323e7cc1b0b3ab212e694364a42d5a",
+    "prompt_file": "artifacts/illustrations/common_carp.json"
+  },
+  "chital": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/chital.png",
+    "sha256": "a8157cb95b133bd88c34ce4a82d9c56173b3c7980991ccf9c9b2121f5621b937",
+    "prompt_file": "artifacts/illustrations/chital.json"
+  },
+  "boal": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/boal.png",
+    "sha256": "4a3cf8a6662b80ed5933707a5e71b20aaed1525443e81e79c470ff3b86cb7ce4",
+    "prompt_file": "artifacts/illustrations/boal.json",
+    "reference": {
+      "title": "Wallago attu 1.jpg",
+      "author": "Reezwan",
+      "url": "https://commons.wikimedia.org/wiki/File:Wallago_attu_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "use": "Anatomical reference for an AI redrawing; background, lighting and rendering changed."
+    },
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "pomfret": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pomfret.png",
+    "sha256": "27a6245413fb8768631f211dc63903e3cdfa1538a2bdd78c901ae499d83e7836",
+    "prompt_file": "artifacts/illustrations/pomfret.json"
+  },
+  "eggplant": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/eggplant.png",
+    "sha256": "73aadcb30c56eeb7783f292e3fca7075d4f23a70168017852d4dae3705222952",
+    "prompt_file": "artifacts/illustrations/eggplant.json"
+  },
+  "potato": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/potato.png",
+    "sha256": "efc4f2d2b617f937cb22d6e6d042336202684e0ad9c9ded200ed9edaf4d7ba55",
+    "prompt_file": "artifacts/illustrations/potato.json"
+  },
+  "tomato": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tomato.png",
+    "sha256": "688b020a8fe82bb69561dc7252193bb5daae4b87719210dced4a64f7e2c9ac2d",
+    "prompt_file": "artifacts/illustrations/tomato.json"
+  },
+  "bottle_gourd": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bottle_gourd.png",
+    "sha256": "59b3737f1851de055269844e9d2453039e658dcb8ef694f203ac5c49232780e6",
+    "prompt_file": "artifacts/illustrations/bottle_gourd.json"
+  },
+  "pumpkin": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pumpkin.png",
+    "sha256": "0ba7a500795140208c195d12d9afad32a5d52b482e22cdcae273686ffbb9d3c6",
+    "prompt_file": "artifacts/illustrations/pumpkin.json"
+  },
+  "bitter_gourd": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bitter_gourd.png",
+    "sha256": "d803ed914c3257eb803424f63857d42e790176eeb1c444b1cfded45b8dbeb121",
+    "prompt_file": "artifacts/illustrations/bitter_gourd.json"
+  },
+  "okra": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/okra.png",
+    "sha256": "6a6be0293baed19b0006ca5d2d3653a541ca5bd66d64dd89432d3d8784e6a89d",
+    "prompt_file": "artifacts/illustrations/okra.json"
+  },
+  "cauliflower": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cauliflower.png",
+    "sha256": "2e23d6df49da378f59989e7d282654fc6cf79dacc051dac948c460c0247a1226",
+    "prompt_file": "artifacts/illustrations/cauliflower.json"
+  },
+  "cabbage": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cabbage.png",
+    "sha256": "3c7c66a4a4e35f351a33f28ae14f32f9e5e38beb0ea21e9e7b5028852e18ef70",
+    "prompt_file": "artifacts/illustrations/cabbage.json"
+  },
+  "radish": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/radish.png",
+    "sha256": "9f1b1c36f1f2237b48a176863d359402ff1bebc2258d59fc2cfc90ff5159b6f3",
+    "prompt_file": "artifacts/illustrations/radish.json"
+  },
+  "cucumber": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cucumber.png",
+    "sha256": "60abdae6122360a77ea92543ad6e7e9c3c8fab03e56f24e495ec5ad98501be00",
+    "prompt_file": "artifacts/illustrations/cucumber.json"
+  },
+  "bean": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bean.png",
+    "sha256": "cae37738d0145678704fec25d4668a91ed83a98c952ceb1e4fdeed59dd6a452d",
+    "prompt_file": "artifacts/illustrations/bean.json"
+  },
+  "carrot": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/carrot.png",
+    "sha256": "3601d691a1d4e36f6265f928b5f9f540716d76196cb0818cd4a1d0839346f895",
+    "prompt_file": "artifacts/illustrations/carrot.json"
+  },
+  "spine_gourd": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/spine_gourd.png",
+    "sha256": "a186c610713fe45facfd7d810e605b212b6aa2f1a84e1946f762311f20ce62e8",
+    "prompt_file": "artifacts/illustrations/spine_gourd.json"
+  },
+  "onion": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/onion.png",
+    "sha256": "16da29ad62e8bae038c6b0c328e8b7479c587a1b37413681b2219cf415ad9e2e",
+    "prompt_file": "artifacts/illustrations/onion.json"
+  },
+  "garlic": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/garlic.png",
+    "sha256": "1ea806ec7c536948205ace51126ff0c7432f979131a43b3bb976b77e1b40221d",
+    "prompt_file": "artifacts/illustrations/garlic.json"
+  },
+  "ginger": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ginger.png",
+    "sha256": "ca34619221d2ab39eb5e7d12305c438a00d05ef4f0d9c12b632285979de51a23",
+    "prompt_file": "artifacts/illustrations/ginger.json"
+  },
+  "chili": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/chili.png",
+    "sha256": "e95b71126e7a2bbf858420ddfca51c43c3c8023ebec4184ec126983e5866b4ad",
+    "prompt_file": "artifacts/illustrations/chili.json"
+  },
+  "ridge_gourd": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ridge_gourd.png",
+    "sha256": "d7b744c25dc82acbf5b1ec1a7ee4174aa4d5ac3c0248d36d45cc769dd9fd4ff6",
+    "prompt_file": "artifacts/illustrations/ridge_gourd.json"
+  },
+  "pointed_gourd": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pointed_gourd.png",
+    "sha256": "e591fdaac9e38538c55e9de45df1dfa89cbf40d1f9493faf6ee532cd0ce8a5f5",
+    "prompt_file": "artifacts/illustrations/pointed_gourd.json"
+  },
+  "car": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/car.png",
+    "sha256": "357a08e4ea35af4e9573e8adfeefac08ac494c8c8fc26111b729bb22ccc061a1",
+    "prompt_file": "artifacts/illustrations/car.json"
+  },
+  "bus": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bus.png",
+    "sha256": "b50b59c1bc06769d57911506d8f0be389494826679a04bda7dffeddbdf6cc47d",
+    "prompt_file": "artifacts/illustrations/bus.json"
+  },
+  "truck": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/truck.png",
+    "sha256": "c1838d9fd319a9883a4144a90d7a62b2e28abeaacda768870a9ab4b1ea8bd5fe",
+    "prompt_file": "artifacts/illustrations/truck.json"
+  },
+  "train": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/train.png",
+    "sha256": "f2d67b2bb567caf878d628a458e71553122dc718b68e38d149a5cb6ca545a032",
+    "prompt_file": "artifacts/illustrations/train.json"
+  },
+  "bicycle": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bicycle.png",
+    "sha256": "26445dc2ce9866084baaf7546fce4faa0a73bc33bb00fcac05bd34fa15bb2b4f",
+    "prompt_file": "artifacts/illustrations/bicycle.json"
+  },
+  "motorcycle": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/motorcycle.png",
+    "sha256": "83f9cfff83232f9482b9e864d26f217405e5891a8456775fef9f9c2d99da0f21",
+    "prompt_file": "artifacts/illustrations/motorcycle.json"
+  },
+  "rickshaw": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/rickshaw.png",
+    "sha256": "c744b2090dac66ea0d2130f17f1ac77026f2ac6dbf5e736deff2ae56fd0c46a2",
+    "prompt_file": "artifacts/illustrations/rickshaw.json"
+  },
+  "auto_rickshaw": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/auto_rickshaw.png",
+    "sha256": "098d22465737a93276ddf5dbb7c8ad304e93cb9e978c9d973b1ab1f6853f3c40",
+    "prompt_file": "artifacts/illustrations/auto_rickshaw.json"
+  },
+  "van": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/van.png",
+    "sha256": "2d901b64ebbfda7ea79e6fed2221e3f2fceee1d4a3fd9c287a8b87e5d15b55c8",
+    "prompt_file": "artifacts/illustrations/van.json"
+  },
+  "ambulance": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ambulance.png",
+    "sha256": "684483bcdc80969e95d3e25f0e07a296243fb9aece2f20b8f9280d54bb36810e",
+    "prompt_file": "artifacts/illustrations/ambulance.json"
+  },
+  "fire_engine": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/fire_engine.png",
+    "sha256": "f5c6a2e782118fd4d310c555914ac3b0ccadad316c170f5382ae556c68868e57",
+    "prompt_file": "artifacts/illustrations/fire_engine.json"
+  },
+  "police_car": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/police_car.png",
+    "sha256": "cf7992d088b8c0c0cb11ddb69c0acb5052181622b188bcdb63b511279ed14145",
+    "prompt_file": "artifacts/illustrations/police_car.json"
+  },
+  "tractor": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/tractor.png",
+    "sha256": "7dc39bd9cb85b46598d614db1922caefc1df3700c7dd615d1fc9169a117cff67",
+    "prompt_file": "artifacts/illustrations/tractor.json"
+  },
+  "bulldozer": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bulldozer.png",
+    "sha256": "3242f1f84159b24721aa51096a85206bfdfe90e925995c72204e059b3d6783de",
+    "prompt_file": "artifacts/illustrations/bulldozer.json"
+  },
+  "boat": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/boat.png",
+    "sha256": "f752c09dc557c5400e2837ef965595d5efc35a0c1ed58b1ad550bda00ab1d539",
+    "prompt_file": "artifacts/illustrations/boat.json"
+  },
+  "launch": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/launch.png",
+    "sha256": "2a7a5ed20146a3a790fcc21dee4c93021b904b63662d9ae6e9e2473983a1e578",
+    "prompt_file": "artifacts/illustrations/launch.json"
+  },
+  "ship": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ship.png",
+    "sha256": "fb60fd104bd4ff9875c6e07a42d562d64eff7bb5769a34e8df12ff073adfd00a",
+    "prompt_file": "artifacts/illustrations/ship.json"
+  },
+  "ferry": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ferry.png",
+    "sha256": "bc8658f2940e358948996ce1389f2f21cc60b084250f5d86e530651f05892537",
+    "prompt_file": "artifacts/illustrations/ferry.json"
+  },
+  "airplane": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/airplane.png",
+    "sha256": "48ce26d280fe641e9991bac9b8d98a87e884da033e5c96d93c284d45969d0447",
+    "prompt_file": "artifacts/illustrations/airplane.json"
+  },
+  "helicopter": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/helicopter.png",
+    "sha256": "1d015ab51acd844cc9fc2c6d023b1c429524080e454d9416100243784eb5690f",
+    "prompt_file": "artifacts/illustrations/helicopter.json"
+  },
+  "ant": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ant.png",
+    "sha256": "2aa3593c28f61999ed205a1622f64b16cbc7d1987f96c67bdb4c45bdeeed6823",
+    "prompt_file": "artifacts/illustrations/ant.json"
+  },
+  "butterfly": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/butterfly.png",
+    "sha256": "f932a19c4727c477fc1e565c09c684d7db3a46393ae24a08385ffde6a6e59b95",
+    "prompt_file": "artifacts/illustrations/butterfly.json"
+  },
+  "honeybee": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/honeybee.png",
+    "sha256": "4e04a171d2633b3d80391a75e3f295bddcb84fc7485c5ddeed09c8349c42ad73",
+    "prompt_file": "artifacts/illustrations/honeybee.json"
+  },
+  "mosquito": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mosquito.png",
+    "sha256": "d167f904d50a0819d1056a089d4a2e6fc3338e90058dd2fb187c390737d16ffb",
+    "prompt_file": "artifacts/illustrations/mosquito.json"
+  },
+  "fly": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/fly.png",
+    "sha256": "12f6753d3093f3d1728141bc2bd4d6613c02eef2285321d674bef77d0b911f14",
+    "prompt_file": "artifacts/illustrations/fly.json"
+  },
+  "dragonfly": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/dragonfly.png",
+    "sha256": "2d8668c65f49779a23460a203f320e59dc1bc4a47ac2c1c7f58760221149be68",
+    "prompt_file": "artifacts/illustrations/dragonfly.json"
+  },
+  "grasshopper": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/grasshopper.png",
+    "sha256": "6c3abba02da85cb902dc119d7b437df2239d28f127041c5732b79eee344f0bfa",
+    "prompt_file": "artifacts/illustrations/grasshopper.json"
+  },
+  "cockroach": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cockroach.png",
+    "sha256": "5d00c893bf342699d5ba5c18e44e3c4f12353a8c0f370a6f63df257ca5ac6b83",
+    "prompt_file": "artifacts/illustrations/cockroach.json"
+  },
+  "cricket": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/cricket.png",
+    "sha256": "2bb8d2f5ebc11d6b8d3a57e208f3f9b63039a9216f2565ef8f6858cf84c36942",
+    "prompt_file": "artifacts/illustrations/cricket.json"
+  },
+  "firefly": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/firefly.png",
+    "sha256": "46f5748f3f7e253716c0ab57a2f306074fcb64567d8af7adec17de703ffaa567",
+    "prompt_file": "artifacts/illustrations/firefly.json"
+  },
+  "beetle": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/beetle.png",
+    "sha256": "34c7551fae3d1733615124360dc63b92cee2c7da547ddf15c8d6f6c67499146a",
+    "prompt_file": "artifacts/illustrations/beetle.json"
+  },
+  "ladybird": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/ladybird.png",
+    "sha256": "cad7c0185cf549a3fd242b7dcf2843f68d5dce9a48638a0a41e21d4ab5cb9f3d",
+    "prompt_file": "artifacts/illustrations/ladybird.json"
+  },
+  "caterpillar": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/caterpillar.png",
+    "sha256": "bed28097abeb4a6de2c0a5eb660664f890903514d0b38f05613c18c4d7d2f7cc",
+    "prompt_file": "artifacts/illustrations/caterpillar.json"
+  },
+  "moth": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/moth.png",
+    "sha256": "f5858c68df2288b18af751bf89846af739db869cdf85b88bbe91a4ac72bb5d9d",
+    "prompt_file": "artifacts/illustrations/moth.json"
+  },
+  "termite": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/termite.png",
+    "sha256": "b72637fdbdad3775ace47b7f1076b5aefc79d6da28cbb9145c62fd23f6e21358",
+    "prompt_file": "artifacts/illustrations/termite.json"
+  },
+  "bedbug": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/bedbug.png",
+    "sha256": "c023afe99651a966765fbbede7beec089ba741f8b4b400b14644e602fd2288e8",
+    "prompt_file": "artifacts/illustrations/bedbug.json"
+  },
+  "louse": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/louse.png",
+    "sha256": "368d3ac8deef5b390ec95deef6e81869f8ac31bfed7d4ee18e4b979f99713e14",
+    "prompt_file": "artifacts/illustrations/louse.json"
+  },
+  "rice_bug": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/rice_bug.png",
+    "sha256": "8f61812afd6149969af1b60dd7cbb17de351ed79a19898a7fa349e60959196a5",
+    "prompt_file": "artifacts/illustrations/rice_bug.json"
+  },
+  "silkworm": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/silkworm.png",
+    "sha256": "ee90337de80131c8f547845498fc97b6954cc11191b84f5917889818ee0c5b17",
+    "prompt_file": "artifacts/illustrations/silkworm.json"
+  },
+  "hornet": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/hornet.png",
+    "sha256": "0b08f610bbf547879db9fab8caec68b4f6a8ba6364e9d445b64c8c72563d82c5",
+    "prompt_file": "artifacts/illustrations/hornet.json"
+  },
+  "color_red": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_red.png",
+    "sha256": "7f591a9d3231afd8a549dce7f76b40bb6f4d751cadc31d92f7e0fbb38b96cb98",
+    "metadata_file": "artifacts/illustrations/color_red.json"
+  },
+  "color_blue": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_blue.png",
+    "sha256": "10bb60f659c75c409ef6fca6ac834b8fb7812e725a69b5ad34ad0f1fd7456750",
+    "metadata_file": "artifacts/illustrations/color_blue.json"
+  },
+  "color_yellow": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_yellow.png",
+    "sha256": "c91300b2dfa378f1c89e48c18122ccbbd8e9294d39d334d6e421793a0268f0a2",
+    "metadata_file": "artifacts/illustrations/color_yellow.json"
+  },
+  "color_green": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_green.png",
+    "sha256": "1b492a5780f54e7f39e29e090a1925a366f99bee694b0acb206ff62c02c0092a",
+    "metadata_file": "artifacts/illustrations/color_green.json"
+  },
+  "color_orange": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_orange.png",
+    "sha256": "d2cdb389aea372e78c5ef6bce42d58cb50ab9033807f56aa02d46c4207f492ac",
+    "metadata_file": "artifacts/illustrations/color_orange.json"
+  },
+  "color_purple": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_purple.png",
+    "sha256": "86f37cf0427d7a2d21a3c08af8159cfee95a2a5d747a9eb9d209c97dc14004f1",
+    "metadata_file": "artifacts/illustrations/color_purple.json"
+  },
+  "color_pink": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_pink.png",
+    "sha256": "c262ddc9c2df7af636251cdb7e1f9f0b27c0ac22a02872422437838d9e6a7977",
+    "metadata_file": "artifacts/illustrations/color_pink.json"
+  },
+  "color_black": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_black.png",
+    "sha256": "4461d96a06621555711c97073ab74f74f726c4e66932a1dd7191ab307d0c3791",
+    "metadata_file": "artifacts/illustrations/color_black.json"
+  },
+  "color_white": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_white.png",
+    "sha256": "d352ca99849a3cbabdf876b1f9c77a42ee37997c813700b48e8b64ffa4507cd9",
+    "metadata_file": "artifacts/illustrations/color_white.json"
+  },
+  "color_brown": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_brown.png",
+    "sha256": "4988652d164ac72b330f66695acca66e6654da7359c92bff7a72488b60c7ed8f",
+    "metadata_file": "artifacts/illustrations/color_brown.json"
+  },
+  "color_gray": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_gray.png",
+    "sha256": "ef0a8672d60f33c700ffd891f2fc593d8d6e24979a40e7cba42182658ff7d07d",
+    "metadata_file": "artifacts/illustrations/color_gray.json"
+  },
+  "color_sky_blue": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_sky_blue.png",
+    "sha256": "49469851db61dff29cce5dafa1e1efe1ffc2ab7e53402eaa9d6b6242f6c7b9ab",
+    "metadata_file": "artifacts/illustrations/color_sky_blue.json"
+  },
+  "color_navy_blue": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_navy_blue.png",
+    "sha256": "ca329511c3a719bc945eec8d9953eda13580e6851af408be0072d516815eb250",
+    "metadata_file": "artifacts/illustrations/color_navy_blue.json"
+  },
+  "color_light_green": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_light_green.png",
+    "sha256": "494966030df8e41d39f38cbfd786ee0838cec1f3b5d9fc627ed6f58e84f2488d",
+    "metadata_file": "artifacts/illustrations/color_light_green.json"
+  },
+  "color_dark_green": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_dark_green.png",
+    "sha256": "0e01f5bca5bf1b8aadeafe70ee2e8b732f18edae7409705f281da9d1a85510c2",
+    "metadata_file": "artifacts/illustrations/color_dark_green.json"
+  },
+  "color_maroon": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_maroon.png",
+    "sha256": "ceb88611998925857aaf654ac1cb7109298869c180ffb444c07b2df44b3f57a9",
+    "metadata_file": "artifacts/illustrations/color_maroon.json"
+  },
+  "color_turquoise": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_turquoise.png",
+    "sha256": "a68c2df67c219cacbcd611a309eef159401e6365ba7bf5a86620e2e1a204a540",
+    "metadata_file": "artifacts/illustrations/color_turquoise.json"
+  },
+  "color_gold": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_gold.png",
+    "sha256": "45ea7f258b5085697f60a941810081504d2d0cffb2d7fb11d4ad1229a8bab0c3",
+    "metadata_file": "artifacts/illustrations/color_gold.json"
+  },
+  "color_silver": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_silver.png",
+    "sha256": "ac1ba7b675be7149456b5af23b19a61b94a34d34454faee0ce36a7f82af083f8",
+    "metadata_file": "artifacts/illustrations/color_silver.json"
+  },
+  "color_cream": {
+    "type": "procedural-color-swatch",
+    "tool": "Pillow",
+    "master": "artifacts/illustrations/color_cream.png",
+    "sha256": "907c77bb59233ea83a4b6c6f34c3f8558388af56fe650c3bed58aa5c00eece14",
+    "metadata_file": "artifacts/illustrations/color_cream.json"
+  },
+  "paddy": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/paddy.png",
+    "sha256": "cb993e9af8f0686b94ebdfbd2d12122c1f7f8aa98cdae223e86da46aa5cdf7af",
+    "prompt_file": "artifacts/illustrations/paddy.json"
+  },
+  "wheat": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/wheat.png",
+    "sha256": "c6cabb97e9fc7653da00d7ccc5287d7ba41188d957ed6de0d63693f6b0446c76",
+    "prompt_file": "artifacts/illustrations/wheat.json"
+  },
+  "maize": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/maize.png",
+    "sha256": "4294337fb4e597cca638c5f7aa8b337d2e20a1a4a8663cf01c52cae0dd7fa1d5",
+    "prompt_file": "artifacts/illustrations/maize.json"
+  },
+  "barley": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/barley.png",
+    "sha256": "3aa13379653d5087783cdc24073e0e9701f62c7830d2fd46b11f85b06104b75c",
+    "prompt_file": "artifacts/illustrations/barley.json"
+  },
+  "nigella": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/nigella.png",
+    "sha256": "3ba216406388e1142815bffa1a70d60170e7e4740ba9a3791b733f6bb4262bd0",
+    "prompt_file": "artifacts/illustrations/nigella.json"
+  },
+  "coriander_seed": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/coriander_seed.png",
+    "sha256": "402c3ac5f120e74468063e54b6467b7429fe29c9158797c0ed51dc188443179a",
+    "prompt_file": "artifacts/illustrations/coriander_seed.json"
+  },
+  "foxtail_millet": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/foxtail_millet.png",
+    "sha256": "0a82f1df028f79341f482a3d720a4d191a5cc8e1a1472601c3c1d323bfd1630e",
+    "prompt_file": "artifacts/illustrations/foxtail_millet.json"
+  },
+  "lentil": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/lentil.png",
+    "sha256": "a0c8752318d4ae26442cfdedbb63d5f4cf8d1386b9cb6f95394694ed3876de6e",
+    "prompt_file": "artifacts/illustrations/lentil.json"
+  },
+  "mung_bean": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mung_bean.png",
+    "sha256": "86948f2fc19be042c050bc6d3b6922701ab92bbfdf45df86d59e78167a6e62b8",
+    "prompt_file": "artifacts/illustrations/mung_bean.json"
+  },
+  "black_gram": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/black_gram.png",
+    "sha256": "46e0473bdc0276e131ea200594bef5c27b8e026484e52e18d8afa5e615162093",
+    "prompt_file": "artifacts/illustrations/black_gram.json"
+  },
+  "chickpea": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/chickpea.png",
+    "sha256": "edc9d5036d6845b3d3cea7f3779cf15d8e468252a74d948f43364f63e7074b69",
+    "prompt_file": "artifacts/illustrations/chickpea.json"
+  },
+  "pea": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pea.png",
+    "sha256": "80ef5ed3b277c2cb29fa539ff72399d580071710c60b0c22577903b80284e119",
+    "prompt_file": "artifacts/illustrations/pea.json"
+  },
+  "grass_pea": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/grass_pea.png",
+    "sha256": "f1cecb78fcc2034ab76593ff4594aac75f216dfb37889582308bfeb16765bce0",
+    "prompt_file": "artifacts/illustrations/grass_pea.json"
+  },
+  "pigeon_pea": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/pigeon_pea.png",
+    "sha256": "0cc3de2e274efc93a182159d0a710e7e00eb5f06180078be2ec9081a24ffa668",
+    "prompt_file": "artifacts/illustrations/pigeon_pea.json"
+  },
+  "mustard_seed": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/mustard_seed.png",
+    "sha256": "ba736abc24b4dae95d35d79c27b54d614be6642aba705a7c86da73c5713f29bc",
+    "prompt_file": "artifacts/illustrations/mustard_seed.json"
+  },
+  "sesame_seed": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/sesame_seed.png",
+    "sha256": "078c46be1d3b7999612c92029614ec7355f4b05a7ef81e963472f266c186f90f",
+    "prompt_file": "artifacts/illustrations/sesame_seed.json"
+  },
+  "soybean": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/soybean.png",
+    "sha256": "b98d2d539979471da1b6df415463c4ba11178dcda9029d1300a28b9738a1722b",
+    "prompt_file": "artifacts/illustrations/soybean.json"
+  },
+  "peanut": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/peanut.png",
+    "sha256": "c3a8f03e5ef1f660d45459e640cb8bca1efc7ed96d90b7e746610caf86fe62fb",
+    "prompt_file": "artifacts/illustrations/peanut.json"
+  },
+  "flaxseed": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/flaxseed.png",
+    "sha256": "a7f55b6bc7d1ecd27a54d6b1499aff5f493bc159e0dc6c7cfc25dfae42eb1006",
+    "prompt_file": "artifacts/illustrations/flaxseed.json"
+  },
+  "sunflower_seed": {
+    "type": "ai-generated-illustration",
+    "tool": "built-in image_gen",
+    "master": "artifacts/illustrations/sunflower_seed.png",
+    "sha256": "f7251e4ae38d59c49081294535cf25a80dc9492864726d5c6cc8a2d596d7ad0b",
+    "prompt_file": "artifacts/illustrations/sunflower_seed.json"
+  }
+}

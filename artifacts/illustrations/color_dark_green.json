@@ -1,0 +1,12 @@
+{
+  "id": "color_dark_green",
+  "type": "procedural-color-swatch",
+  "tool": "Pillow",
+  "generator": "scripts/generate_colors.py",
+  "bn": "গাঢ় সবুজ",
+  "en": "Dark green",
+  "color": "#0C5B32",
+  "shape": "circle",
+  "background": "#FFFAF0",
+  "finish": "solid"
+}

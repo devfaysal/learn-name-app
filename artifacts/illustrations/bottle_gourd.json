@@ -1,0 +1,7 @@
+{
+  "id": "bottle_gourd",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square photograph-style vegetable portrait for a children's Bengali-English picture dictionary. Subject: a single real fresh Bangladeshi lau (bottle gourd), the familiar large elongated pale green edible variety from a vegetable market. Broad thick elongated body with gently irregular taper, softly rounded blossom end with tiny dry blossom scar, modest narrowed shoulder and a SHORT rough cut green-brown stalk. Resting naturally on its side diagonally across the frame, stalk toward upper left and rounded end lower right; believable contact with the surface, not balancing upright. Natural subdued light sage-green peel, faint irregular whitish mottling, very fine surface texture, subtle tiny marks, soft matte-to-satin sheen. Photographic realism and natural proportions, no overly long thin neck, no exaggerated curved stem, no perfect symmetrical cylinder, no bright lime saturation, no plastic shine. Soft diffuse daylight, warm ivory seamless surface and background, gentle contact shadow. Full vegetable centered with 10 percent clear margin on all sides, recognizable at mobile thumbnail size. No cut sections, leaves, extra produce, props, labels, text, border or watermark.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-b6858f60-82a4-49e0-a6f3-4de06b813128.png",
+  "project_path": "artifacts/illustrations/bottle_gourd.png"
+}

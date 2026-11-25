@@ -1,0 +1,7 @@
+{
+  "id": "fire_engine",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: photorealistic-natural. Create ONE square premium realistic vehicle portrait for a children's Bengali-English picture dictionary. Match a collection of lifelike photographic subject portraits on plain warm ivory seamless backgrounds, softly diffused daylight, subtle contact shadows, natural colors and fine material details. Accurate real-world proportions and mechanical structure, approachable but NOT toy-like or cartoon, no exaggerated features. Entire vehicle including wheels, antennas, wings, rotors or hull fully visible within the central 80 percent of the square, with generous clear margins. Crisp readable silhouette at mobile thumbnail size. No people, drivers, human silhouettes, buildings, scenery, decorative graphics, readable text, license plate characters, brand logos, watermark or border. For watercraft, show complete hull on the same clean ivory backdrop with subtle shadow, no water scene. Subject: A red fire engine truck, equipment lockers, rolled hose and folded silver ladder on roof, emergency light bar and crew cab, three-quarter front-left view, recognizable fire service equipment, no lettering.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-16fefe38-3e2d-454f-860c-8f2088f81309.png",
+  "project_path": "artifacts/illustrations/fire_engine.png"
+}

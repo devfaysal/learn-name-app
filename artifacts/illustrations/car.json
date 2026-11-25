@@ -1,0 +1,8 @@
+{
+  "id": "car",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Edit target: the supplied blue sedan image from a children's picture dictionary. Change ONLY the blue painted body panels, bumpers, roof, door handles and mirror housings to realistic glossy WHITE automotive paint. Keep exactly the same car design, proportions, three-quarter angle, placement, scale, wheels, tires, glass, headlights, trim, natural lighting, soft contact shadow and warm ivory background. Preserve realistic reflections and subtle gray shading so the white body is clear against the ivory background. Keep the complete car and antenna visible in the same square framing. No added text, logos, objects or people.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-58c90eaa-a521-4e9d-96fb-8e9d41372c75.png",
+  "project_path": "artifacts/illustrations/car.png",
+  "edit_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-a3f6d2b9-1379-43d2-867a-edcd69dd4db2.png"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "lemon",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Change this yellow lemon to a fresh GREEN-SKINNED LEMON, familiar as green lebu in Bangladesh. Preserve one whole lemon and one cut half, but make the skin entirely natural deep fresh green with subtle lighter green variation, NOT yellow. Whole fruit has a natural slightly oval lemon shape with gently rounded ends, fine realistic citrus rind pores, minor natural surface marks, no exaggerated nipples. Cut half has green rind, thin white pith and pale greenish cream translucent juicy segments, a few small cream seeds, not bright yellow or orange flesh. Use convincing real food photography, soft natural daylight, subtle non-plastic reflections, authentic texture and proportions. Complete fruits centered on clean warm ivory background with a soft contact shadow and comfortable margins, square format. No leaves, text, watermark, scenery, props or other fruit.",
+  "source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-cce48ace-9360-441e-83d0-45a7c1e93e00.png",
+  "project_path": "artifacts/illustrations/lemon.png",
+  "reference_source_path": "/home/faysal/.codex/generated_images/01a20d24-6553-7f60-8e16-ae576b1e7707/exec-4a91d2f0-5151-433c-a8cd-b6618f9c948f.png"
+}
